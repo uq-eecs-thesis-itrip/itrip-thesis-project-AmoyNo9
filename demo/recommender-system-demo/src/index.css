@@ -1,0 +1,30 @@
+/* Tailwind基础样式（必须置顶） */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 全局样式：适配旅游助手场景 */
+body {
+  @apply font-sans bg-neutral text-gray-800 min-h-screen;
+  margin: 0; /* 清除默认边距，避免MUI布局偏移 */
+}
+
+/* 场景标签样式 */
+.scene-tag {
+  @apply px-3 py-1 rounded-full text-sm font-medium;
+}
+
+/* 路线卡片样式 */
+.route-card {
+  @apply bg-white rounded-xl shadow-md hover:shadow-lg transition-shadow p-4 border-l-4;
+}
+
+/* 景点卡片样式 */
+.attraction-card {
+  @apply bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow p-3 border border-gray-100;
+}
+
+/* 按钮通用样式 */
+.travel-btn {
+  @apply rounded-lg px-6 py-2 font-medium transition-all duration-300 hover:shadow-md;
+}
