@@ -1,0 +1,105 @@
+{
+  "poi_id": "XM061",
+  "name": "杏林湾绿道",
+  "english_name": "Xinglin Bay Greenway",
+  "pinyin": "Xinglinwan Ludao",
+  "aliases": [
+    "Xinglin Bay Greenway",
+    "Xinglinwan Ludao",
+    "杏林湾绿道"
+  ],
+  "city": "厦门",
+  "district": "集美区",
+  "address": "杏林湾周边",
+  "area": "杏林湾片区",
+  "parent_poi": null,
+  "is_area_poi": true,
+  "is_sub_poi": false,
+  "route_role": {
+    "primary_for": [
+      "scenery",
+      "relaxed"
+    ],
+    "secondary_for": [
+      "relaxed"
+    ],
+    "avoid_for": [],
+    "recommended_time_slots": [
+      "morning",
+      "afternoon"
+    ],
+    "not_recommended_time_slots": []
+  },
+  "route_constraints": {
+    "can_be_standalone_stop": true,
+    "can_be_combined_with": [],
+    "should_not_split_area_across_days": true,
+    "max_same_area_pois_per_day": 3,
+    "min_visit_gap_min": 0
+  },
+  "location": {
+    "lat": 24.6,
+    "lon": 118.05
+  },
+  "time": {
+    "open_time": "00:00",
+    "close_time": "23:59",
+    "recommended_duration_min": 90,
+    "best_visit_time": "morning or afternoon",
+    "night_available": true,
+    "closed_day": null
+  },
+  "semantic": {
+    "main_category": "scenery",
+    "secondary_categories": [
+      "relaxed"
+    ],
+    "tags": [
+      "绿道",
+      "湾区",
+      "骑行"
+    ],
+    "scenarios": [
+      "scenery",
+      "relaxed"
+    ],
+    "style": "greenway"
+  },
+  "EIRE": {
+    "entity": [
+      "绿道",
+      "湾区"
+    ],
+    "intent": [
+      "scenery",
+      "relaxed"
+    ],
+    "relation": [
+      "位于杏林湾片区",
+      "适合scenery路线"
+    ]
+  },
+  "score": {
+    "popularity": 0.75,
+    "niche": 0.45,
+    "rating": 4.4,
+    "scenery_score": 0.9,
+    "culture_score": 0.25,
+    "food_score": 0.1,
+    "relaxed_score": 0.5
+  },
+  "constraints": {
+    "ticket_required": false,
+    "constraint_type": "open_public_space",
+    "weather_sensitive": true,
+    "needs_reservation_check": false
+  },
+  "description": "杏林湾绿道是厦门集美区的真实旅游POI，适合scenery相关路线，可结合杏林湾片区内其他景点进行行程规划。",
+  "algorithm_notes": {
+    "semantic_filter_use": "Use semantic.main_category, semantic.secondary_categories, semantic.tags, EIRE.entity, EIRE.intent and EIRE.relation for query-POI matching.",
+    "temporal_filter_use": "Use time.open_time, time.close_time, time.recommended_duration_min, time.closed_day, time.best_visit_time and route_role.recommended_time_slots for feasibility checking.",
+    "spatial_filter_use": "Use location.lat/lon, area, parent_poi and route_constraints.can_be_combined_with for distance, area grouping and route-cost filtering.",
+    "authenticity_filter_use": "Verify name/address with local KB or map API before final itinerary generation."
+  },
+  "data_note": "This is a prototype seed record for a real Xiamen POI. Coordinates, opening hours, ticket and rating values should be verified with Amap or official sources before production use."
+}

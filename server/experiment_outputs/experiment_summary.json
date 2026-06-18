@@ -1,0 +1,41 @@
+[
+  {
+    "method": "LLM Only",
+    "n": 30,
+    "FR": 0.172,
+    "RR": 0.036,
+    "AR": 0.009,
+    "STR": 0.654,
+    "PR": 0.726,
+    "avg_planned_count": 6.833,
+    "avg_stops_per_day": 5.372,
+    "avg_candidate_count": 0,
+    "avg_retrieved_candidate_count": 0
+  },
+  {
+    "method": "Local RAG Only",
+    "n": 30,
+    "FR": 0,
+    "RR": 0.069,
+    "AR": 0.098,
+    "STR": 0.95,
+    "PR": 0.835,
+    "avg_planned_count": 6.033,
+    "avg_stops_per_day": 4.672,
+    "avg_candidate_count": 12,
+    "avg_retrieved_candidate_count": 12
+  },
+  {
+    "method": "Local RAG + STCF",
+    "n": 30,
+    "FR": 0.033,
+    "RR": 0.097,
+    "AR": 0,
+    "STR": 0.788,
+    "PR": 0.851,
+    "avg_planned_count": 4.3,
+    "avg_stops_per_day": 3.75,
+    "avg_candidate_count": 4.4,
+    "avg_retrieved_candidate_count": 12
+  }
+]

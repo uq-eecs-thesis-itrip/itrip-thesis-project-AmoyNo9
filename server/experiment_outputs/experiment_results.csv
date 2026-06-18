@@ -1,0 +1,3190 @@
+query_id,query,method,retrieved_candidate_count,candidate_count,planned_count,avg_stops_per_day,FR,RR,AR,STR,PR,answer
+"1","Plan a one-day Xiamen local food and culture route.","LLM Only","0","0","6","6","0.167","0","0","0.333","0.833","Title: Xiamen Local Flavors and Cultural Heritage in One Day
+
+Day 1 Stop 1: Nanputuo Temple
+- Why included: A renowned Buddhist temple offering a serene cultural experience and a glimpse into local religious traditions.
+- Best time to visit: Early morning (7:00-8:30 AM) to avoid crowds and enjoy the peaceful atmosphere.
+- Estimated stay: 1.5 hours
+- Address: 515 Siming South Road, Siming District, Xiamen
+
+Day 1 Stop 2: Xiamen University (XMU)
+- Why included: One of China’s most beautiful campuses, featuring historic architecture, lush gardens, and a lake, reflecting local academic culture.
+- Best time to visit: 9:00-10:30 AM after temple visit
+- Estimated stay: 1.5 hours
+- Address: 422 Siming South Road, Siming District, Xiamen
+
+Day 1 Stop 3: Zhongshan Road Walking Street
+- Why included: A bustling pedestrian street with local snack stalls, shops, and colonial-era buildings, perfect for tasting Xiamen street food like oyster omelets and peanut soup.
+- Best time to visit: Late morning to early afternoon (11:00 AM-1:00 PM)
+- Estimated stay: 2 hours
+- Address: Zhongshan Road, Siming District, Xiamen
+
+Day 1 Stop 4: Gulangyu Island (Shuzhuang Garden & Sunlight Rock)
+- Why included: A car-free island with colonial villas, gardens, and panoramic views, offering a deep dive into Xiamen’s multicultural history and local culture.
+- Best time to visit: 1:30-4:30 PM (after lunch, take a short ferry from downtown)
+- Estimated stay: 3 hours
+- Address: Gulangyu Island, Xiamen (ferry from Lujiang Road Pier)
+
+Day 1 Stop 5: Zengcuoan Village
+- Why included: A former fishing village turned artistic enclave with narrow alleys, street art, and seafood restaurants, ideal for experiencing local coastal culture and dinner.
+- Best time to visit: Late afternoon to evening (5:00-7:00 PM)
+- Estimated stay: 2 hours
+- Address: Zengcuoan Village, Siming District, Xiamen
+
+Day 1 Stop 6: Xiamen Night Market (e.g., Hubin East Road Night Market)
+- Why included: A lively night market to sample more local delicacies like satay noodles and seafood skewers, ending the day with authentic flavors.
+- Best time to visit: 7:30-9:00 PM
+- Estimated stay: 1.5 hours
+- Address: Hubin East Road, Siming District, Xiamen"
+"1","Plan a one-day Xiamen local food and culture route.","Local RAG Only","12","12","5","5","0","0","0","1","1","Title: Xiamen Local Food and Culture Discovery
+
+Day 1 Stop 1: 南普陀寺
+- Why included: A key cultural site to start the day, offering a serene temple experience and insight into Buddhist and Minnan culture.
+- Best time to visit: Morning
+- Estimated stay: 90 minutes
+- Address: 思明南路515号
+
+Day 1 Stop 2: 厦门大学外部参观点
+- Why included: Adjacent to Nanputuo Temple, this stop showcases the beautiful campus architecture and provides a cultural photo opportunity.
+- Best time to visit: Late morning
+- Estimated stay: 90 minutes
+- Address: 思明南路422号周边
+
+Day 1 Stop 3: 龙头路
+- Why included: A vibrant food street on Gulangyu Island, perfect for sampling local snacks and shopping for souvenirs, blending food and culture.
+- Best time to visit: Noon
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿龙头路
+
+Day 1 Stop 4: 菽庄花园
+- Why included: A cultural garden with piano exhibits and sea views, offering a relaxed cultural experience in the afternoon.
+- Best time to visit: Afternoon
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿港仔后路
+
+Day 1 Stop 5: 皓月园
+- Why included: A scenic coastal park with the Zheng Chenggong statue, ideal for evening culture and scenery appreciation.
+- Best time to visit: Evening
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿东部海滨"
+"1","Plan a one-day Xiamen local food and culture route.","Local RAG + STCF","12","5","5","5","0","0","0","0.8","1","Title: One-Day Xiamen Food and Culture Route
+
+Day 1 Stop 1: 鼓浪屿 (Gulangyu Island)
+- Why included: Start your day on this scenic island, a UNESCO World Heritage site with beautiful architecture and sea views, setting the cultural tone for the day.
+- Best time to visit: Morning
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿
+
+Day 1 Stop 2: 鼓浪屿钢琴博物馆 (Gulangyu Piano Museum)
+- Why included: Dive into the island’s musical heritage with a collection of historic pianos, a perfect cultural stop.
+- Best time to visit: Morning
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿菽庄花园内
+
+Day 1 Stop 3: 龙头路 (Longtou Road)
+- Why included: Explore the island’s main food street, offering local snacks and souvenirs, ideal for a food-focused lunch and shopping.
+- Best time to visit: Noon
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿龙头路
+
+Day 1 Stop 4: 南普陀寺 (Nanputuo Temple)
+- Why included: Visit this serene Buddhist temple to experience traditional Fujian culture and architecture, a key cultural landmark.
+- Best time to visit: Afternoon
+- Estimated stay: 90 minutes
+- Address: 思明南路515号
+
+Day 1 Stop 5: 厦门大学外部参观点 (Xiamen University Area)
+- Why included: End your day with a stroll around the scenic campus exterior, known for its charming buildings and photo opportunities.
+- Best time to visit: Afternoon
+- Estimated stay: 90 minutes
+- Address: 思明南路422号周边"
+"2","Plan a one-day Xiamen route focused on seaside views and local snacks.","LLM Only","0","0","6","6","0.333","0","0","0.667","0.667","Title: Xiamen Seaside & Snack Tour
+
+Day 1 Stop 1: Gulangyu Island
+- Why included: Iconic seaside island with colonial architecture, beach views, and car-free streets perfect for a morning stroll.
+- Best time to visit: 8:30 AM to 11:00 AM to avoid crowds and enjoy the sea breeze.
+- Estimated stay: 2.5 hours
+- Address: Ferry from Xiamen Ferry Terminal to Gulangyu
+
+Day 1 Stop 2: Zhongshan Road Walking Street
+- Why included: Historic pedestrian street with a mix of local snack shops, including Shacha noodles, oyster omelets, and peanut soup.
+- Best time to visit: 11:30 AM to 1:00 PM for lunch.
+- Estimated stay: 1.5 hours
+- Address: Zhongshan Road, Siming District
+
+Day 1 Stop 3: Huandao Road (Island Ring Road) – Music Square Section
+- Why included: Scenic coastal road with stunning sea views, bike paths, and photo spots. Great for a post-lunch walk or bike ride.
+- Best time to visit: 2:00 PM to 3:30 PM for pleasant afternoon light.
+- Estimated stay: 1.5 hours
+- Address: Huandao Road, near Music Square
+
+Day 1 Stop 4: Zengcuoan Village
+- Why included: Quaint fishing village turned artsy area with seaside cafes, local snack stalls like fried squid and coconut drinks, and a relaxed vibe.
+- Best time to visit: 4:00 PM to 5:30 PM for late afternoon exploration.
+- Estimated stay: 1.5 hours
+- Address: Zengcuoan Village, Siming District
+
+Day 1 Stop 5: Baishazhou Beach
+- Why included: Quiet, less crowded beach for sunset views and a peaceful end to the seaside tour.
+- Best time to visit: 5:45 PM to 6:45 PM for sunset.
+- Estimated stay: 1 hour
+- Address: Baishazhou, near Huandao Road
+
+Day 1 Stop 6: Xiamen Night Snack Street (e.g., Babu Night Market area)
+- Why included: Local evening snack hub offering grilled seafood, satay skewers, and sweet soups to wrap up the day.
+- Best time to visit: 7:00 PM to 8:30 PM for dinner.
+- Estimated stay: 1.5 hours
+- Address: Near Babu Road, Siming District"
+"2","Plan a one-day Xiamen route focused on seaside views and local snacks.","Local RAG Only","12","12","5","5","0","0","0.4","1","0.95","Title: Seaside Views & Local Snacks on Gulangyu Island
+
+Day 1 Stop 1: 鼓浪屿 (Gulangyu Island)
+- Why included: The core island destination offering stunning seaside views and a relaxed island atmosphere; serves as the base for the entire day’s exploration.
+- Best time to visit: Morning (to avoid crowds and enjoy the coastal scenery)
+- Estimated stay: 90 minutes (for arrival and initial exploration)
+- Address: 鼓浪屿, 思明区, 厦门
+
+Day 1 Stop 2: 日光岩 (Sunlight Rock)
+- Why included: The highest viewpoint on the island, providing panoramic seaside views of the ocean and surrounding area—perfect for a scenic start.
+- Best time to visit: Morning (clear visibility for photography)
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿晃岩路, 思明区, 厦门
+
+Day 1 Stop 3: 龙头路 (Longtou Road)
+- Why included: The island’s main food street, ideal for sampling local snacks and buying souvenirs; directly addresses the request for local snacks.
+- Best time to visit: Noon (when shops and food stalls are fully open)
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿龙头路, 思明区, 厦门
+
+Day 1 Stop 4: 港仔后海滨浴场 (Gangzaihou Beach)
+- Why included: A beautiful sandy beach with direct seaside views, perfect for a relaxing afternoon walk or sunbathing by the ocean.
+- Best time to visit: Afternoon (sunset is also recommended for scenic beauty)
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿港仔后路附近, 思明区, 厦门
+
+Day 1 Stop 5: 皓月园 (Haoyue Garden)
+- Why included: A coastal park with a seaside setting and a large statue of Zheng He, offering scenic ocean views and cultural interest—great for a late-afternoon visit.
+- Best time to visit: Sunset (for beautiful evening light over the sea)
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿东部海滨, 思明区, 厦门"
+"2","Plan a one-day Xiamen route focused on seaside views and local snacks.","Local RAG + STCF","12","4","4","4","0","0","0","0.75","0.938","Title: Seaside Scenery & Local Snacks in Xiamen
+
+Day 1 Stop 1: 鼓浪屿
+- Why included: Offers stunning seaside views, island scenery, and a relaxed atmosphere to start your day.
+- Best time to visit: Morning
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿
+
+Day 1 Stop 2: 龙头路
+- Why included: A vibrant food street on Gulangyu Island, perfect for sampling local snacks and shopping for souvenirs.
+- Best time to visit: Noon
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿龙头路
+
+Day 1 Stop 3: 南普陀寺
+- Why included: A cultural temple with scenic surroundings, providing a peaceful contrast and photo opportunities.
+- Best time to visit: Afternoon
+- Estimated stay: 90 minutes
+- Address: 思明南路515号
+
+Day 1 Stop 4: 厦门大学外部参观点
+- Why included: Offers beautiful campus architecture and scenery for a relaxed stroll and photos.
+- Best time to visit: Afternoon
+- Estimated stay: 90 minutes
+- Address: 思明南路422号周边"
+"3","Plan a relaxing one-day Xiamen citywalk with less walking.","LLM Only","0","0","5","5","0.4","0","0","0.4","0.4","Title: Leisurely Xiamen Citywalk: A Relaxing Day by the Sea
+
+Day 1 Stop 1: Gulangyu Island
+- Why included: A car-free island with charming colonial architecture and serene gardens, perfect for a gentle stroll without heavy walking.
+- Best time to visit: 8:30 AM to avoid crowds
+- Estimated stay: 2.5 hours
+- Address: Ferry from Xiamen Ferry Terminal to Gulangyu
+
+Day 1 Stop 2: Zhongshan Road Walking Street
+- Why included: A flat, pedestrian-friendly street with local snacks and shops, ideal for a relaxed midday break.
+- Best time to visit: 11:30 AM
+- Estimated stay: 1.5 hours
+- Address: Zhongshan Road, Siming District
+
+Day 1 Stop 3: Nanputuo Temple
+- Why included: A peaceful Buddhist temple with minimal uphill walking, offering cultural charm and quiet gardens.
+- Best time to visit: 1:30 PM
+- Estimated stay: 1 hour
+- Address: 515 Siming South Road, Siming District
+
+Day 1 Stop 4: Xiamen University Campus
+- Why included: A scenic, flat campus with lakes and greenery, allowing for a gentle walk in a tranquil setting.
+- Best time to visit: 3:00 PM
+- Estimated stay: 1 hour
+- Address: 422 Siming South Road, Siming District
+
+Day 1 Stop 5: Huandao Road Beach (e.g., Pearl Beach)
+- Why included: A calm seaside spot to rest and enjoy the ocean breeze with minimal walking required.
+- Best time to visit: 4:30 PM
+- Estimated stay: 1 hour
+- Address: Huandao Road, Siming District"
+"3","Plan a relaxing one-day Xiamen citywalk with less walking.","Local RAG Only","12","12","5","5","0","0","0.4","1","0.5","Title: Relaxing One-Day Xiamen Citywalk with Less Walking
+
+Day 1 Stop 1: 三丘田码头
+- Why included: This is the main arrival point on Gulangyu Island, offering a scenic ferry ride and a gentle start to the day with beautiful sea views and minimal walking.
+- Best time to visit: Morning
+- Estimated stay: 30 minutes
+- Address: 鼓浪屿三丘田码头
+
+Day 1 Stop 2: 龙头路
+- Why included: A relaxed food street perfect for a light breakfast or mid-morning snack, with many shops and local treats to enjoy without extensive walking.
+- Best time to visit: Morning
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿龙头路
+
+Day 1 Stop 3: 菽庄花园
+- Why included: A compact and serene garden with sea views and piano culture, ideal for a leisurely stroll and cultural appreciation without covering large distances.
+- Best time to visit: Morning or noon
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿港仔后路
+
+Day 1 Stop 4: 港仔后海滨浴场
+- Why included: A nearby beach offering a calm spot to relax, sit by the sea, and enjoy the scenery—perfect for unwinding with very little walking required.
+- Best time to visit: Noon or early afternoon
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿港仔后路附近
+
+Day 1 Stop 5: 皓月园
+- Why included: A coastal park with a famous statue and sunset views, providing a peaceful end to the day with minimal effort and a relaxing atmosphere.
+- Best time to visit: Evening (sunset)
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿东部海滨"
+"3","Plan a relaxing one-day Xiamen citywalk with less walking.","Local RAG + STCF","12","4","4","4","0","0","0","0.75","0","Title: Relaxing Xiamen Citywalk: Island Charm & Cultural Highlights
+
+Day 1 Stop 1: 鼓浪屿
+- Why included: A scenic island escape with beautiful sea views and historic architecture, perfect for a relaxed morning stroll with minimal walking.
+- Best time to visit: Morning
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿, 思明区
+
+Day 1 Stop 2: 龙头路
+- Why included: A lively food street on the island offering local snacks and souvenirs, ideal for a leisurely lunch and shopping without extra travel.
+- Best time to visit: Noon
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿龙头路, 思明区
+
+Day 1 Stop 3: 南普陀寺
+- Why included: A serene Buddhist temple with cultural significance, providing a calm afternoon visit with easy access from the island area.
+- Best time to visit: Afternoon
+- Estimated stay: 90 minutes
+- Address: 思明南路515号, 思明区
+
+Day 1 Stop 4: 厦门大学外部参观点
+- Why included: Enjoy the beautiful campus architecture and photo opportunities from the outside, a relaxing end to the day with minimal effort.
+- Best time to visit: Afternoon
+- Estimated stay: 90 minutes
+- Address: 思明南路422号周边, 思明区"
+"4","Plan a night route in Xiamen with food, sea views, and nightlife.","LLM Only","0","0","4","4","0","0.25","0","0.5","1","Title: Xiamen Night Seafood and Sea Breeze Route
+
+Day 1 Stop 1: Zhongshan Road Pedestrian Street
+- Why included: Lively night market with local snacks and shopping.
+- Best time to visit: 6:00 PM
+- Estimated stay: 1.5 hours
+- Address: Zhongshan Road, Siming District, Xiamen
+
+Day 1 Stop 2: Lujiang Night View (Lujiang Road)
+- Why included: Stunning sea views of Gulangyu Island and the coastline at night.
+- Best time to visit: 7:30 PM
+- Estimated stay: 30 minutes
+- Address: Lujiang Road, Siming District, Xiamen
+
+Day 1 Stop 3: Shapowei (Art District)
+- Why included: Trendy area with seafood restaurants, bars, and artistic sea views.
+- Best time to visit: 8:30 PM
+- Estimated stay: 2 hours
+- Address: Shapowei, Siming District, Xiamen
+
+Day 1 Stop 4: Xiamen University Night Stroll (White City Beach)
+- Why included: Relax by the beach with ocean breeze and nightlife atmosphere.
+- Best time to visit: 10:30 PM
+- Estimated stay: 1 hour
+- Address: White City Beach, Siming District, Xiamen"
+"4","Plan a night route in Xiamen with food, sea views, and nightlife.","Local RAG Only","12","12","4","4","0","0","0","1","1","Title: Xiamen Night Sea Breeze & Food Walk
+
+Day 1 Stop 1: 厦门山海健康步道
+- Why included: Offers panoramic sea and mountain views under the night sky, perfect for a scenic evening stroll.
+- Best time to visit: Evening (around 18:00-19:00) to catch the city lights
+- Estimated stay: 90 minutes
+- Address: 厦门岛内多段入口
+
+Day 1 Stop 2: 厦门海上世界
+- Why included: A vibrant commercial hub with sea views, great for dinner with a variety of food options and nightlife atmosphere.
+- Best time to visit: Evening (around 19:30-20:30) for dining and shopping
+- Estimated stay: 90 minutes
+- Address: 东渡邮轮母港片区
+
+Day 1 Stop 3: 龙头路
+- Why included: Famous food street on Gulangyu Island, offering local snacks and nightlife buzz.
+- Best time to visit: Evening (around 20:30-22:00) for food and shopping
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿龙头路
+
+Day 1 Stop 4: 港仔后海滨浴场
+- Why included: A serene beach to enjoy the sea breeze and night views of the ocean, perfect for a relaxing end to the evening.
+- Best time to visit: Night (around 22:00-23:00)
+- Estimated stay: 60 minutes
+- Address: 鼓浪屿港仔后路附近"
+"4","Plan a night route in Xiamen with food, sea views, and nightlife.","Local RAG + STCF","12","4","4","4","0","0","0","0.75","0.938","Title: Xiamen Night Route: Food, Sea Views & Nightlife
+
+Day 1 Stop 1: 龙头路 (Longtou Road)
+- Why included: This lively food street on Gulangyu Island is perfect for starting your night with a wide variety of local snacks and street food, offering a vibrant atmosphere and shopping for souvenirs.
+- Best time to visit: Evening
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿龙头路
+
+Day 1 Stop 2: 鼓浪屿 (Gulangyu Island)
+- Why included: After dining, enjoy a leisurely stroll around the island to take in the sea views, historic architecture, and the cool night breeze along the coastline, providing a scenic and relaxed experience.
+- Best time to visit: Evening
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿
+
+Day 1 Stop 3: 厦门海上世界 (Xiamen Sea World)
+- Why included: This commercial complex by the harbor offers stunning night views of the sea and city lights, along with additional dining and shopping options for a lively nightlife experience.
+- Best time to visit: Evening
+- Estimated stay: 90 minutes
+- Address: 东渡邮轮母港片区
+
+Day 1 Stop 4: 厦门山海健康步道 (Xiamen Mountain-Sea Trail)
+- Why included: End your night with a walk along this scenic trail, which provides panoramic views of the city and sea under the night sky, perfect for a relaxing and picturesque conclusion.
+- Best time to visit: Evening
+- Estimated stay: 90 minutes
+- Address: 厦门岛内多段入口"
+"5","Plan a two-day Xiamen trip including culture, scenery, and local snacks.","LLM Only","0","0","10","5","0.1","0","0","0.7","0.9","Title: Xiamen’s Culture, Scenery & Snacks in Two Days
+
+Day 1 Stop 1: Nanputuo Temple
+- Why included: A renowned Buddhist temple offering rich cultural heritage and serene atmosphere.
+- Best time to visit: Early morning (7:00-9:00 AM) to avoid crowds.
+- Estimated stay: 1.5 hours
+- Address: 515 Siming South Road, Siming District, Xiamen
+
+Day 1 Stop 2: Xiamen University
+- Why included: Beautiful campus with historic architecture and scenic lakes, a cultural landmark.
+- Best time to visit: 9:30-11:00 AM after temple visit.
+- Estimated stay: 1.5 hours
+- Address: 422 Siming South Road, Siming District, Xiamen
+
+Day 1 Stop 3: Shuzhuang Garden
+- Why included: A classic Chinese garden on Gulangyu Island, combining culture, sea views, and elegant design.
+- Best time to visit: Late morning (11:30 AM-1:00 PM) after crossing to Gulangyu.
+- Estimated stay: 1.5 hours
+- Address: No. 7 Guanyin Temple, Gulangyu Island, Xiamen
+
+Day 1 Stop 4: Sunlight Rock
+- Why included: Highest point on Gulangyu Island offering panoramic scenery of Xiamen and the sea.
+- Best time to visit: Early afternoon (1:30-3:00 PM) for clear views.
+- Estimated stay: 1 hour
+- Address: No. 62 Huangyan Road, Gulangyu Island, Xiamen
+
+Day 1 Stop 5: Gulangyu Snack Street
+- Why included: Perfect spot to sample local snacks like oyster omelet, peanut soup, and fish balls.
+- Best time to visit: Late afternoon (3:30-5:00 PM) for a food break.
+- Estimated stay: 1.5 hours
+- Address: Longtou Road, Gulangyu Island, Xiamen
+
+Day 2 Stop 1: Hulishan Fortress
+- Why included: Historic military fort with cannons and sea views, blending culture and scenery.
+- Best time to visit: Morning (8:00-9:30 AM) to start the day.
+- Estimated stay: 1 hour
+- Address: No. 2 Zengcuoan Road, Siming District, Xiamen
+
+Day 2 Stop 2: Zengcuoan Village
+- Why included: A lively artsy village with traditional Minnan architecture, local snacks, and seaside charm.
+- Best time to visit: 10:00 AM-12:00 PM for exploring and snacking.
+- Estimated stay: 2 hours
+- Address: Zengcuoan West Road, Siming District, Xiamen
+
+Day 2 Stop 3: Huandao Road Scenic Area
+- Why included: A picturesque coastal road perfect for cycling or walking, showcasing Xiamen’s natural beauty.
+- Best time to visit: Late morning to early afternoon (12:30-2:00 PM).
+- Estimated stay: 1.5 hours
+- Address: Along the southeast coast from Baishicheng to Huangcuo
+
+Day 2 Stop 4: Xiamen Botanical Garden
+- Why included: Diverse plant collections and scenic landscapes, including a cactus garden and lake views.
+- Best time to visit: Mid-afternoon (2:30-4:00 PM) for pleasant light.
+- Estimated stay: 1.5 hours
+- Address: No. 25 Huyuan Road, Siming District, Xiamen
+
+Day 2 Stop 5: Zhongshan Road Walking Street
+- Why included: Historic commercial street with colonial architecture and abundant local snack stalls.
+- Best time to visit: Late afternoon to early evening (4:30-6:00 PM) for shopping and food.
+- Estimated stay: 1.5 hours
+- Address: Zhongshan Road, Siming District, Xiamen"
+"5","Plan a two-day Xiamen trip including culture, scenery, and local snacks.","Local RAG Only","12","12","8","4","0","0","0.125","1","1","Title: Xiamen's Essence: Culture, Scenery & Snacks in Two Days
+
+Day 1 Stop 1: 南普陀寺
+- Why included: Immerse in Buddhist culture and serene temple architecture, a key cultural landmark.
+- Best time to visit: Morning
+- Estimated stay: 90 minutes
+- Address: 思明南路515号
+
+Day 1 Stop 2: 厦门大学外部参观点
+- Why included: Admire the scenic campus architecture and vibrant atmosphere, blending culture and scenery.
+- Best time to visit: Late morning
+- Estimated stay: 90 minutes
+- Address: 思明南路422号周边
+
+Day 1 Stop 3: 鼓浪屿
+- Why included: Explore the island's scenic beauty, cultural heritage, and relaxed vibe; a must-see for scenery and culture.
+- Best time to visit: Afternoon
+- Estimated stay: 90 minutes (entry point; full exploration continues)
+- Address: 鼓浪屿
+
+Day 1 Stop 4: 龙头路
+- Why included: Savor local snacks and shop for souvenirs in this vibrant food street, perfect for tasting Xiamen's culinary culture.
+- Best time to visit: Evening
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿龙头路
+
+Day 2 Stop 1: 日光岩
+- Why included: Capture panoramic sea views and island scenery from the highest point, ideal for scenic appreciation.
+- Best time to visit: Morning
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿晃岩路
+
+Day 2 Stop 2: 菽庄花园
+- Why included: Experience a blend of classical garden culture and piano heritage, offering both culture and scenic coastal views.
+- Best time to visit: Late morning
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿港仔后路
+
+Day 2 Stop 3: 皓月园
+- Why included: Enjoy seaside scenery and cultural statues, especially the Zheng Chenggong statue, with a relaxing coastal park atmosphere.
+- Best time to visit: Noon or early afternoon
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿东部海滨
+
+Day 2 Stop 4: 港仔后海滨浴场
+- Why included: Relax on the sandy beach and soak in the ocean scenery, a perfect spot for unwinding.
+- Best time to visit: Late afternoon (sunset)
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿港仔后路附近"
+"5","Plan a two-day Xiamen trip including culture, scenery, and local snacks.","Local RAG + STCF","12","5","5","2.5","0","0","0","0.8","1","Title: Xiamen Culture, Scenery & Snacks in Two Days
+
+Day 1 Stop 1: 鼓浪屿
+- Why included: The iconic island offers stunning sea views, world-heritage architecture, and a relaxed atmosphere—perfect for scenery and culture.
+- Best time to visit: Morning or afternoon
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿
+
+Day 1 Stop 2: 菽庄花园
+- Why included: A beautiful garden with sea views and piano culture, blending scenery and cultural heritage.
+- Best time to visit: Morning or noon
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿港仔后路
+
+Day 1 Stop 3: 龙头路
+- Why included: The main food street on Gulangyu, ideal for sampling local snacks and buying souvenirs, with a lively evening atmosphere.
+- Best time to visit: Noon or evening
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿龙头路
+
+Day 2 Stop 1: 南普陀寺
+- Why included: A renowned Buddhist temple with rich Minnan culture and scenic surroundings, offering a peaceful cultural experience.
+- Best time to visit: Morning or afternoon
+- Estimated stay: 90 minutes
+- Address: 思明南路515号
+
+Day 2 Stop 2: 厦门大学外部参观点
+- Why included: Admire the beautiful campus architecture and take photos at this iconic cultural and scenic spot.
+- Best time to visit: Morning or noon
+- Estimated stay: 90 minutes
+- Address: 思明南路422号周边"
+"6","Plan a three-day Xiamen trip for first-time visitors, including famous attractions and local food.","LLM Only","0","0","15","5","0.333","0","0","0.467","0.2","Title: Classic Xiamen Discovery: A 3-Day First-Timer’s Journey
+
+Day 1 Stop 1: Gulangyu Island
+- Why included: Iconic car-free island with colonial architecture, piano museum, and stunning sea views.
+- Best time to visit: 8:00 AM to avoid crowds.
+- Estimated stay: 3–4 hours.
+- Address: Ferry from Xiamen Ferry Terminal (Lujiang Road).
+
+Day 1 Stop 2: Sunlight Rock
+- Why included: Highest point on Gulangyu, offering panoramic views of Xiamen and the sea.
+- Best time to visit: Right after arrival, around 9:00 AM.
+- Estimated stay: 1 hour.
+- Address: Gulangyu Island, near the ferry dock.
+
+Day 1 Stop 3: Shuzhuang Garden
+- Why included: Beautiful seaside garden with pavilions, bridges, and a piano museum.
+- Best time to visit: 10:30 AM, after Sunlight Rock.
+- Estimated stay: 1–1.5 hours.
+- Address: Gulangyu Island, south side.
+
+Day 1 Stop 4: Zhongshan Road Pedestrian Street
+- Why included: Bustling shopping street with local snacks and historic architecture.
+- Best time to visit: Late afternoon to evening (around 4:00 PM).
+- Estimated stay: 2 hours.
+- Address: Zhongshan Road, Siming District.
+
+Day 1 Stop 5: Huangzehe Coconut Cake Shop (local snack)
+- Why included: Famous for traditional Xiamen coconut cakes, a must-try local treat.
+- Best time to visit: During Zhongshan Road stroll.
+- Estimated stay: 20 minutes.
+- Address: 22 Zhongshan Road.
+
+Day 2 Stop 1: Nanputuo Temple
+- Why included: Major Buddhist temple with serene gardens and mountain backdrop.
+- Best time to visit: 8:00 AM for peaceful atmosphere.
+- Estimated stay: 1.5–2 hours.
+- Address: 515 Siming South Road, Siming District.
+
+Day 2 Stop 2: Xiamen University
+- Why included: Beautiful campus with lakes, gardens, and traditional architecture.
+- Best time to visit: 10:00 AM, after the temple.
+- Estimated stay: 1.5 hours.
+- Address: 422 Siming South Road, Siming District.
+
+Day 2 Stop 3: Hulishan Fortress
+- Why included: Historic coastal fort with cannons and ocean views.
+- Best time to visit: 11:30 AM.
+- Estimated stay: 1 hour.
+- Address: 2 Zengcuoan Road, Siming District.
+
+Day 2 Stop 4: Zengcuoan Village
+- Why included: Charming fishing village turned art district with cafes, shops, and beach.
+- Best time to visit: Lunchtime to afternoon (12:30 PM onward).
+- Estimated stay: 2–3 hours.
+- Address: Zengcuoan Road, Siming District.
+
+Day 2 Stop 5: Xiamen Seafood Night Market (e.g., Eighth Market)
+- Why included: Vibrant night market for fresh seafood and local street food.
+- Best time to visit: Evening, around 6:00 PM.
+- Estimated stay: 1.5–2 hours.
+- Address: Kaihe Road, Siming District (Eighth Market).
+
+Day 3 Stop 1: Wanshi Botanical Garden
+- Why included: Large botanical garden with diverse plants, rock formations, and a misty rainforest area.
+- Best time to visit: 8:00 AM for cool morning.
+- Estimated stay: 2–3 hours.
+- Address: 25 Huyuan Road, Siming District.
+
+Day 3 Stop 2: Xiamen Bailuzhou Park
+- Why included: Scenic park on an island with bird-watching and lake views.
+- Best time to visit: 11:00 AM.
+- Estimated stay: 1 hour.
+- Address: Bailuzhou Road, Siming District.
+
+Day 3 Stop 3: Xiamen Haiwan Park (Seaside Park)
+- Why included: Coastal park with walking paths, gardens, and sea breeze.
+- Best time to visit: 12:30 PM, for a relaxing stroll.
+- Estimated stay: 1 hour.
+- Address: Huandao Road, Siming District.
+
+Day 3 Stop 4: Xiamen Zhonggu Ancun (local food street)
+- Why included: Famous for local dishes like oyster omelet, peanut soup, and satay noodles.
+- Best time to visit: Lunchtime, around 1:30 PM.
+- Estimated stay: 1.5 hours.
+- Address: Zhonggu Ancun, Siming District.
+
+Day 3 Stop 5: Xiamen Ring Road (Huandao Road) cycling or walk
+- Why included: Scenic coastal road with views of the sea and modern skyline.
+- Best time to visit: Late afternoon (3:30 PM).
+- Estimated stay: 1–2 hours.
+- Address: Huandao Road, from Haiwan Park to Zengcuoan."
+"6","Plan a three-day Xiamen trip for first-time visitors, including famous attractions and local food.","Local RAG Only","12","12","14","4.667","0","0.214","0.214","1","0.143","Title: Classic Xiamen: Island Scenery, Culture & Local Flavors
+
+Day 1 Stop 1: 鼓浪屿
+- Why included: The iconic island and UNESCO World Heritage site, perfect for first-time visitors to experience Xiamen’s unique blend of scenery, colonial architecture, and relaxed island vibe.
+- Best time to visit: Morning
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿, 思明区
+
+Day 1 Stop 2: 日光岩
+- Why included: The highest point on Gulangyu, offering panoramic sea views and a must-see for stunning photo opportunities.
+- Best time to visit: Morning
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿晃岩路, 思明区
+
+Day 1 Stop 3: 菽庄花园
+- Why included: A beautiful seaside garden with piano culture, combining natural scenery and cultural heritage for a tranquil visit.
+- Best time to visit: Morning
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿港仔后路, 思明区
+
+Day 1 Stop 4: 龙头路
+- Why included: The main food and shopping street on Gulangyu, ideal for sampling local snacks and buying souvenirs, fulfilling the food request.
+- Best time to visit: Noon or evening
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿龙头路, 思明区
+
+Day 1 Stop 5: 皓月园
+- Why included: A coastal park featuring the Zheng Chenggong statue, perfect for a sunset stroll and scenic views.
+- Best time to visit: Sunset
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿东部海滨, 思明区
+
+Day 2 Stop 1: 南普陀寺
+- Why included: A famous Buddhist temple with rich Minnan culture, offering a peaceful start to the day and free admission.
+- Best time to visit: Morning
+- Estimated stay: 90 minutes
+- Address: 思明南路515号, 思明区
+
+Day 2 Stop 2: 英雄三岛战地观光园
+- Why included: A unique battlefield park on Dadeng Island, showcasing military history and coastal defense culture, ideal for culture enthusiasts.
+- Best time to visit: Morning or noon
+- Estimated stay: 90 minutes
+- Address: 大嶝岛, 翔安区
+
+Day 2 Stop 3: 鼓浪屿钢琴博物馆
+- Why included: Located within Shuzhuang Garden, this museum highlights Gulangyu’s musical heritage with a collection of historic pianos.
+- Best time to visit: Morning or noon
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿菽庄花园内, 思明区
+
+Day 2 Stop 4: 鼓浪屿风琴博物馆
+- Why included: Housed in the iconic Bagua Building, it features a rare collection of organs and adds depth to the cultural experience.
+- Best time to visit: Morning or noon
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿八卦楼, 思明区
+
+Day 2 Stop 5: 港仔后海滨浴场
+- Why included: A relaxing beach on Gulangyu, perfect for unwinding after cultural visits and enjoying the sea breeze.
+- Best time to visit: Sunset
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿港仔后路附近, 思明区
+
+Day 3 Stop 1: 鼓浪屿国际刻字艺术馆
+- Why included: A unique art museum showcasing international lettering art, adding a niche cultural element to the trip.
+- Best time to visit: Morning or noon
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿内, 思明区
+
+Day 3 Stop 2: 三丘田码头
+- Why included: The main ferry terminal on Gulangyu, offering scenic harbor views and a convenient starting point for exploring.
+- Best time to visit: Morning or noon
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿三丘田码头, 思明区
+
+Day 3 Stop 3: 龙头路
+- Why included: Revisit for more local food exploration, trying different snacks and dishes not sampled on Day 1.
+- Best time to visit: Noon or evening
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿龙头路, 思明区
+
+Day 3 Stop 4: 港仔后海滨浴场
+- Why included: A final relaxing beach visit to soak in the coastal atmosphere before departure.
+- Best time to visit: Sunset
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿港仔后路附近, 思明区"
+"6","Plan a three-day Xiamen trip for first-time visitors, including famous attractions and local food.","Local RAG + STCF","12","1","3","1","0","0.667","0","1","1","Title: A Three-Day Xiamen Food & Culture Journey
+
+**Day 1: Gulangyu Island Food & Shopping**
+
+Day 1 Stop 1: 龙头路 (Longtou Road)
+- Why included: This is the main food street on Gulangyu Island, perfect for first-time visitors to sample local snacks and buy souvenirs.
+- Best time to visit: Noon or evening
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿龙头路, 思明区, 厦门
+
+**Day 2: Exploring Xiamen’s Coastal & Cultural Highlights**
+
+Day 2 Stop 1: 龙头路 (Longtou Road)
+- Why included: Revisit this vibrant street for more food exploration and shopping, as it offers a different atmosphere in the morning.
+- Best time to visit: Noon or evening
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿龙头路, 思明区, 厦门
+
+**Day 3: Relaxed Local Food & Scenic Walk**
+
+Day 3 Stop 1: 龙头路 (Longtou Road)
+- Why included: A final chance to enjoy local delicacies and pick up last-minute gifts before departure.
+- Best time to visit: Noon or evening
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿龙头路, 思明区, 厦门"
+"7","Plan a one-day Xiamen route for someone interested in old streets and local markets.","LLM Only","0","0","5","5","0.2","0","0","0.4","0.8","Title: Xiamen’s Old Streets & Markets Walk
+
+Day 1 Stop 1: Eighth Market (Bashi)
+- Why included: A classic local market where you can experience Xiamen’s daily life, fresh seafood, and traditional snacks.
+- Best time to visit: Morning (8:00–10:00 AM)
+- Estimated stay: 1.5 hours
+- Address: Between Kaiyuan Road and Datong Road, Siming District
+
+Day 1 Stop 2: Zhongshan Road Walking Street
+- Why included: Historic arcade-lined street with a mix of old shops, local eateries, and a vibrant market atmosphere.
+- Best time to visit: Late morning (10:30 AM–12:00 PM)
+- Estimated stay: 1.5 hours
+- Address: Zhongshan Road, Siming District
+
+Day 1 Stop 3: Gulangyu Island – Longtou Road
+- Why included: A car-free island with narrow lanes, colonial-era buildings, and a lively market street full of local snacks and crafts.
+- Best time to visit: Early afternoon (1:00–4:00 PM)
+- Estimated stay: 3 hours (including ferry)
+- Address: Longtou Road, Gulangyu Island (ferry from Xiagu Ferry Terminal)
+
+Day 1 Stop 4: Zengcuoan Village
+- Why included: A former fishing village turned artsy enclave with winding alleyways, street food stalls, and a bustling market vibe.
+- Best time to visit: Late afternoon (4:30–6:30 PM)
+- Estimated stay: 2 hours
+- Address: Zengcuoan Village, Siming District
+
+Day 1 Stop 5: Shapowei Art Zone
+- Why included: A revitalized waterfront area with old warehouses, local art galleries, and night market food stalls.
+- Best time to visit: Evening (7:00–9:00 PM)
+- Estimated stay: 2 hours
+- Address: Shapowei, Siming District"
+"7","Plan a one-day Xiamen route for someone interested in old streets and local markets.","Local RAG Only","12","12","4","4","0","0.25","0","1","1","Title: Xiamen Old Streets & Local Markets One-Day Route
+
+Day 1 Stop 1: 华新路老别墅区
+- Why included: This area is perfect for starting your exploration of old streets, with its charming historic villas and relaxed atmosphere that captures Xiamen’s cultural heritage.
+- Best time to visit: Morning
+- Estimated stay: 90 minutes
+- Address: 华新路, 思明区
+
+Day 1 Stop 2: 大同路老街
+- Why included: A classic old street featuring traditional arcade architecture and local snacks, ideal for immersing in the city’s historic street life and food culture.
+- Best time to visit: Late morning to noon
+- Estimated stay: 90 minutes
+- Address: 大同路, 思明区
+
+Day 1 Stop 3: 厦门老院子景区
+- Why included: This cultural attraction showcases Minnan folk customs and performances, offering a deeper dive into local traditions and history.
+- Best time to visit: Early afternoon
+- Estimated stay: 90 minutes
+- Address: 华夏路, 集美区
+
+Day 1 Stop 4: 大同路老街 (evening visit)
+- Why included: Return to this vibrant street in the evening to experience its lively night atmosphere, with more local market stalls and food options open late.
+- Best time to visit: Evening
+- Estimated stay: 90 minutes
+- Address: 大同路, 思明区"
+"7","Plan a one-day Xiamen route for someone interested in old streets and local markets.","Local RAG + STCF","12","5","5","5","0","0","0","0.8","1","Title: Xiamen Old Streets & Local Markets One-Day Route
+
+Day 1 Stop 1: 菽庄花园
+- Why included: A classic garden with sea views and piano culture, perfect for a cultural start to the day.
+- Best time to visit: Morning
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿港仔后路
+
+Day 1 Stop 2: 鼓浪屿钢琴博物馆
+- Why included: Located within Shuzhuang Garden, this museum showcases historic pianos and enriches the cultural experience.
+- Best time to visit: Morning
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿菽庄花园内
+
+Day 1 Stop 3: 鼓浪屿风琴博物馆
+- Why included: Housed in the iconic Bagua Building, it offers a unique look at pipe organs and adds depth to the island’s musical heritage.
+- Best time to visit: Noon
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿八卦楼
+
+Day 1 Stop 4: 大同路老街
+- Why included: A historic old street with traditional arcade buildings and local snacks, ideal for exploring old-town character and market vibes.
+- Best time to visit: Noon
+- Estimated stay: 90 minutes
+- Address: 大同路
+
+Day 1 Stop 5: 华新路老别墅区
+- Why included: A charming area of old villas and artsy cafes, perfect for a relaxed afternoon stroll and experiencing local culture.
+- Best time to visit: Afternoon
+- Estimated stay: 90 minutes
+- Address: 华新路"
+"8","Plan a one-day Xiamen route with temples, history, and traditional food.","LLM Only","0","0","6","6","0.333","0","0","0.333","0.667","Title: Xiamen’s Heritage & Temple Trail
+
+Day 1 Stop 1: Nanputuo Temple
+- Why included: One of Xiamen’s most famous Buddhist temples, offering a serene start with rich history and traditional architecture.
+- Best time to visit: Early morning (7:00-8:00 AM) to avoid crowds and enjoy the peaceful atmosphere.
+- Estimated stay: 1.5 hours
+- Address: 515 Siming South Road, Siming District, Xiamen
+
+Day 1 Stop 2: Xiamen University
+- Why included: A historic university with beautiful campus grounds, including traditional Minnan-style buildings and a glimpse of local academic life.
+- Best time to visit: 9:30-10:30 AM after Nanputuo Temple (adjacent location)
+- Estimated stay: 1 hour
+- Address: 422 Siming South Road, Siming District, Xiamen
+
+Day 1 Stop 3: Gulangyu Island (Shuzhuang Garden & Sunlight Rock)
+- Why included: A car-free island with colonial history, traditional gardens, and panoramic views; includes historic villas and a temple-like pavilion.
+- Best time to visit: 11:00 AM to 2:00 PM (ferry ride included)
+- Estimated stay: 3 hours (including ferry)
+- Address: Ferry from Xiamen Ferry Terminal (Lujiang Road) to Gulangyu Island
+
+Day 1 Stop 4: Zhongshan Road Walking Street
+- Why included: Historic commercial street with traditional arcade architecture, perfect for sampling local food like oyster omelet, satay noodles, and peanut soup.
+- Best time to visit: 2:30-4:00 PM (lunch and snack time)
+- Estimated stay: 1.5 hours
+- Address: Zhongshan Road, Siming District, Xiamen
+
+Day 1 Stop 5: Xiamen Overseas Chinese Museum
+- Why included: A museum dedicated to the history of Chinese emigration, offering deep cultural and historical insights into Xiamen’s role as a port city.
+- Best time to visit: 4:30-5:30 PM (closes at 6 PM)
+- Estimated stay: 1 hour
+- Address: 493 Siming South Road, Siming District, Xiamen
+
+Day 1 Stop 6: Zengcuoan Village (dinner)
+- Why included: A historic fishing village turned cultural hub, with traditional Minnan architecture and a wide selection of local seafood and street food.
+- Best time to visit: 6:00-8:00 PM for dinner and evening stroll
+- Estimated stay: 2 hours
+- Address: Zengcuoan Road, Siming District, Xiamen"
+"8","Plan a one-day Xiamen route with temples, history, and traditional food.","Local RAG Only","12","12","6","6","0","0","0.167","1","1","Title: Xiamen Temple, History & Food One-Day Route
+
+Day 1 Stop 1: 南普陀寺 (Nanputuo Temple)
+- Why included: A historic Buddhist temple that fulfills the request for temples and history, offering a serene cultural start to the day.
+- Best time to visit: Morning (opens at 08:30)
+- Estimated stay: 90 minutes
+- Address: 思明南路515号, 思明区
+
+Day 1 Stop 2: 厦门大学外部参观点 (Xiamen University Area)
+- Why included: Explore the historic campus architecture and scenic surroundings, adding a layer of cultural and historical depth.
+- Best time to visit: Late morning
+- Estimated stay: 90 minutes
+- Address: 思明南路422号周边, 思明区
+
+Day 1 Stop 3: 鼓浪屿 (Gulangyu Island)
+- Why included: A UNESCO World Heritage site with rich history, colonial architecture, and scenic beauty, central to the island experience.
+- Best time to visit: Noon (ferry over from Xiamen)
+- Estimated stay: 90 minutes (travel time included)
+- Address: 鼓浪屿, 思明区
+
+Day 1 Stop 4: 龙头路 (Longtou Road)
+- Why included: The island's main food street, perfect for sampling traditional Xiamen snacks and local cuisine.
+- Best time to visit: Early afternoon (opens at 10:00)
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿龙头路, 思明区
+
+Day 1 Stop 5: 日光岩 (Sunlight Rock)
+- Why included: The highest point on Gulangyu, offering panoramic sea views and a historical lookout, blending scenery with history.
+- Best time to visit: Afternoon
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿晃岩路, 思明区
+
+Day 1 Stop 6: 菽庄花园 (Shuzhuang Garden)
+- Why included: A historic garden with piano culture and coastal views, providing a cultural and scenic finale to the day.
+- Best time to visit: Late afternoon (closes at 17:30)
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿港仔后路, 思明区"
+"8","Plan a one-day Xiamen route with temples, history, and traditional food.","Local RAG + STCF","12","5","5","5","0","0","0","1","1","Title: One-Day Xiamen Temple, History & Food Route
+
+Day 1 Stop 1: 南普陀寺
+- Why included: A historic Buddhist temple that perfectly matches your interest in temples and history, offering a serene start to the day with classic Minnan architecture.
+- Best time to visit: Morning (opens at 08:30)
+- Estimated stay: 90 minutes
+- Address: 思明南路515号
+
+Day 1 Stop 2: 厦门大学外部参观点
+- Why included: Explore the historic campus architecture and scenic surroundings of one of China's most beautiful universities, adding cultural depth to your route.
+- Best time to visit: Late morning
+- Estimated stay: 90 minutes
+- Address: 思明南路422号周边
+
+Day 1 Stop 3: 鼓浪屿
+- Why included: A UNESCO World Heritage island rich in history, colonial-era buildings, and scenic coastal views, providing a full cultural and historical experience.
+- Best time to visit: Noon
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿
+
+Day 1 Stop 4: 鼓浪屿钢琴博物馆
+- Why included: Housed within the island, this museum showcases a unique collection of historic pianos, blending music history with cultural heritage.
+- Best time to visit: Early afternoon (open until 17:30)
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿菽庄花园内
+
+Day 1 Stop 5: 龙头路
+- Why included: The island's main food street, ideal for sampling traditional Xiamen snacks and local delicacies, fulfilling your traditional food interest.
+- Best time to visit: Evening (opens from 10:00, best for dinner)
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿龙头路"
+"9","Plan a Xiamen trip that avoids too much walking and has enough rest time.","LLM Only","0","0","10","5","0.3","0","0","0.4","0.7","Title: Relaxed Xiamen Highlights with Minimal Walking
+
+Day 1 Stop 1: Gulangyu Island (via ferry)
+- Why included: Scenic island with car-free streets, easy to explore at a slow pace with plenty of benches and cafes for rest.
+- Best time to visit: Morning (9:00 AM) to avoid crowds and heat.
+- Estimated stay: 3 hours (focus on Sunlight Rock area and seaside promenade)
+- Address: Ferry from Xiamen Ferry Terminal, Lujiang Road, Siming District
+
+Day 1 Stop 2: Xiamen University
+- Why included: Beautiful campus with shaded paths, gardens, and a lake; minimal walking required if you stay near the main entrance and芙蓉湖.
+- Best time to visit: Late morning (11:30 AM)
+- Estimated stay: 1 hour
+- Address: 422 Siming South Road, Siming District
+
+Day 1 Stop 3: Nanputuo Temple
+- Why included: Peaceful temple complex with rest areas, close to Xiamen University; you can sit and enjoy the view without extensive walking.
+- Best time to visit: Early afternoon (1:00 PM)
+- Estimated stay: 1.5 hours
+- Address: 515 Siming South Road, Siming District
+
+Day 1 Stop 4: Zhongshan Road Walking Street
+- Why included: Pedestrian-friendly street with many shops, restaurants, and benches; ideal for a relaxed evening stroll.
+- Best time to visit: Late afternoon to evening (4:00 PM)
+- Estimated stay: 2 hours (with rest at a café)
+- Address: Zhongshan Road, Siming District
+
+Day 1 Stop 5: Xiamen Seaside Promenade (near Huandao Road)
+- Why included: Flat, easy walk along the coast with sea views; plenty of spots to sit and rest.
+- Best time to visit: Sunset (5:30 PM)
+- Estimated stay: 1 hour
+- Address: Huandao Road, near Zengcuoan Village
+
+Day 2 Stop 1: Hulishan Fortress
+- Why included: Compact historical site with cannons and a small museum; minimal walking required.
+- Best time to visit: Morning (9:00 AM)
+- Estimated stay: 1 hour
+- Address: 2 Zengcuoan Road, Siming District
+
+Day 2 Stop 2: Zengcuoan Village
+- Why included: Charming seaside village with narrow lanes, art shops, and cafés; you can rest frequently and enjoy the relaxed vibe.
+- Best time to visit: Late morning (10:30 AM)
+- Estimated stay: 2 hours
+- Address: Zengcuoan Village, Siming District
+
+Day 2 Stop 3: Xiamen Botanical Garden (take shuttle bus)
+- Why included: Large garden but you can use the internal shuttle bus to see highlights with minimal walking; rest areas throughout.
+- Best time to visit: Early afternoon (1:00 PM)
+- Estimated stay: 2 hours
+- Address: 25 Huyuan Road, Siming District
+
+Day 2 Stop 4: Zhonggu Park
+- Why included: Quiet urban park with shaded paths, pavilions, and benches; perfect for an easy afternoon rest.
+- Best time to visit: Late afternoon (3:30 PM)
+- Estimated stay: 1 hour
+- Address: 86 Zhonggu Road, Siming District
+
+Day 2 Stop 5: Xiamen Night Cruise (optional)
+- Why included: Sit-down boat ride to see city lights; no walking involved.
+- Best time to visit: Evening (7:00 PM)
+- Estimated stay: 1.5 hours
+- Address: Depart from Xiamen Ferry Terminal"
+"9","Plan a Xiamen trip that avoids too much walking and has enough rest time.","Local RAG Only","12","12","8","4","0","0","0.125","1","1","Title: Relaxed Xiamen Getaway with Minimal Walking
+
+Day 1 Stop 1: 鼓浪屿钢琴博物馆
+- Why included: Indoor museum with minimal walking, rich culture, and a relaxed pace.
+- Best time to visit: Morning
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿菽庄花园内
+
+Day 1 Stop 2: 龙头路
+- Why included: Food street with shops and seating areas, perfect for a leisurely lunch and rest.
+- Best time to visit: Noon
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿龙头路
+
+Day 1 Stop 3: 皓月园
+- Why included: Coastal park with scenic views and benches, easy to enjoy without much walking.
+- Best time to visit: Evening
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿东部海滨
+
+Day 1 Stop 4: 日光岩
+- Why included: Iconic viewpoint with elevator access and resting spots; avoid climbing if tired.
+- Best time to visit: Morning or afternoon
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿晃岩路
+
+Day 2 Stop 1: 厦门博物馆
+- Why included: Indoor museum with comfortable seating and minimal walking, ideal for a relaxed morning.
+- Best time to visit: Morning
+- Estimated stay: 90 minutes
+- Address: 体育路95号文化艺术中心内
+
+Day 2 Stop 2: 八市
+- Why included: Local market with food stalls and benches, great for a relaxed lunch and rest.
+- Best time to visit: Noon
+- Estimated stay: 90 minutes
+- Address: 开禾路与营平路附近
+
+Day 2 Stop 3: 鸿山公园
+- Why included: Park with city views and seating areas, easy to enjoy without strenuous walking.
+- Best time to visit: Afternoon
+- Estimated stay: 90 minutes
+- Address: 思明南路附近
+
+Day 2 Stop 4: 龙舟池
+- Why included: Scenic lake with benches and flat paths, perfect for a calm evening stroll.
+- Best time to visit: Evening
+- Estimated stay: 90 minutes
+- Address: 集美龙舟池"
+"9","Plan a Xiamen trip that avoids too much walking and has enough rest time.","Local RAG + STCF","12","5","5","5","0","0","0","0.8","1","Title: Relaxed Xiamen Highlights Tour
+
+Day 1 Stop 1: 日光岩
+- Why included: Offers panoramic sea views with minimal walking; a relaxed scenic stop to start the day.
+- Best time to visit: Morning
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿晃岩路
+
+Day 1 Stop 2: 鼓浪屿钢琴博物馆
+- Why included: Indoor cultural attraction with comfortable seating areas, perfect for a restful visit.
+- Best time to visit: Morning
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿菽庄花园内
+
+Day 1 Stop 3: 皓月园
+- Why included: A peaceful coastal garden with a statue and sea breeze, ideal for a leisurely afternoon stroll.
+- Best time to visit: Afternoon
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿东部海滨
+
+Day 1 Stop 4: 鸿山公园
+- Why included: A quiet city park with gentle paths and city views, allowing for a relaxed break.
+- Best time to visit: Afternoon
+- Estimated stay: 90 minutes
+- Address: 思明南路附近
+
+Day 1 Stop 5: 厦门博物馆
+- Why included: Indoor museum with exhibits on local history, providing a calm and restful end to the day.
+- Best time to visit: Afternoon
+- Estimated stay: 90 minutes
+- Address: 体育路95号文化艺术中心内"
+"10","Plan an evening food route in Xiamen with places suitable after 6 PM.","LLM Only","0","0","5","5","0.4","0","0","0.4","0.4","Title: Xiamen Evening Food Exploration
+
+Day 1 Stop 1: Zhongshan Road Walking Street
+- Why included: A vibrant pedestrian street with numerous evening food stalls and local snacks.
+- Best time to visit: 6:00 PM - 7:00 PM
+- Estimated stay: 1 hour
+- Address: Zhongshan Road, Siming District, Xiamen
+
+Day 1 Stop 2: Huang Zehe Peanut Soup (Zhongshan Road Branch)
+- Why included: Famous for its smooth peanut soup and traditional Xiamen desserts, perfect for a light evening bite.
+- Best time to visit: 7:00 PM - 7:30 PM
+- Estimated stay: 30 minutes
+- Address: No. 22 Zhongshan Road, Siming District
+
+Day 1 Stop 3: Zengcuoan Village
+- Why included: A lively seaside village with a variety of seafood stalls and night market vibes, open late.
+- Best time to visit: 7:45 PM - 9:00 PM
+- Estimated stay: 1.5 hours
+- Address: Zengcuoan Village, Siming District, Xiamen
+
+Day 1 Stop 4: Shapowei Art Zone
+- Why included: A trendy waterfront area with evening food trucks, craft beer bars, and artistic ambiance.
+- Best time to visit: 9:15 PM - 10:30 PM
+- Estimated stay: 1.25 hours
+- Address: Shapowei, Siming District, Xiamen
+
+Day 1 Stop 5: Gulangyu Island Night Stroll (Ferry)
+- Why included: Take a short ferry for a relaxed evening walk and try local oyster omelets on the island.
+- Best time to visit: 10:45 PM - 11:30 PM (last ferry back)
+- Estimated stay: 45 minutes
+- Address: Gulangyu Island Ferry Terminal, Siming District"
+"10","Plan an evening food route in Xiamen with places suitable after 6 PM.","Local RAG Only","12","12","4","4","0","0","0","1","0.25","Title: Xiamen Evening Food & Stroll Route
+
+Day 1 Stop 1: 中山路步行街
+- Why included: A vibrant pedestrian street with iconic Qilou architecture, bustling with food stalls, local snacks, and shops—perfect for an evening food crawl after 6 PM.
+- Best time to visit: Evening (open until 22:30)
+- Estimated stay: 90 minutes
+- Address: 中山路
+
+Day 1 Stop 2: 白城沙滩
+- Why included: A scenic beach ideal for a relaxing evening stroll after dinner, offering beautiful sea views and a chance to unwind by the water.
+- Best time to visit: Evening (night available)
+- Estimated stay: 90 minutes
+- Address: 厦门大学白城附近
+
+Day 1 Stop 3: 皓月园
+- Why included: A coastal park with a stunning statue of Zheng He, open 24/7 and suitable for an evening visit to enjoy the sea breeze and night scenery.
+- Best time to visit: Evening (night available)
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿东部海滨
+
+Day 1 Stop 4: 港仔后海滨浴场
+- Why included: A beach open all day and night, perfect for a late-evening walk along the shore to end the evening on a relaxed note.
+- Best time to visit: Evening (night available)
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿港仔后路附近"
+"10","Plan an evening food route in Xiamen with places suitable after 6 PM.","Local RAG + STCF","12","2","2","2","0","0.5","0","0.5","1","Title: Xiamen Evening Food Stroll
+
+Day 1 Stop 1: 中山路步行街
+- Why included: This iconic pedestrian street is open until 22:30 and offers a lively evening atmosphere with numerous food stalls and local snacks, perfect for an evening food route.
+- Best time to visit: Evening (after 6 PM)
+- Estimated stay: 90 minutes
+- Address: 中山路, 思明区, 厦门
+
+Day 1 Stop 2: 沙坡尾
+- Why included: This creative district near the old port is known for its food scene and relaxed vibe, making it a great spot to continue your evening food exploration with local eateries and cafes.
+- Best time to visit: Evening (after 6 PM)
+- Estimated stay: 90 minutes
+- Address: 沙坡尾, 思明区, 厦门"
+"11","厦门一日游，想吃本地小吃，也想看一些文化街区。","LLM Only","0","0","6","6","0","0.333","0","0.667","0.833","Title: 厦门一日小吃与文化街区漫游
+
+Day 1 Stop 1: 八市（第八菜市场）
+- Why included: 体验最地道的厦门本地小吃，如沙茶面、海蛎煎、五香卷等，感受市井烟火气。
+- Best time to visit: 早上8:00-9:00，避开人流高峰，小吃摊档齐全。
+- Estimated stay: 1.5小时
+- Address: 厦门市思明区开平路与营平路交叉口
+
+Day 1 Stop 2: 中山路步行街
+- Why included: 百年骑楼建筑群，汇聚老字号小吃和文创店，是品尝小吃和感受历史街区的核心区域。
+- Best time to visit: 上午9:30-11:00，店铺刚开门，人少适合悠闲逛。
+- Estimated stay: 1.5小时
+- Address: 厦门市思明区中山路
+
+Day 1 Stop 3: 沙坡尾
+- Why included: 保留渔港风貌的文化街区，融合艺术小店、咖啡馆和本地小吃，适合拍照和体验文艺氛围。
+- Best time to visit: 中午11:30-13:00，午餐时段可品尝避风坞海鲜和特色小吃。
+- Estimated stay: 2小时
+- Address: 厦门市思明区大学路与沙坡尾路交汇处
+
+Day 1 Stop 4: 曾厝垵
+- Why included: 闽南传统村落改造的文创街区，聚集各种小吃摊和手工艺品店，是体验市井文化与美食的绝佳地点。
+- Best time to visit: 下午14:00-16:00，午后阳光柔和，适合闲逛品尝小吃。
+- Estimated stay: 2小时
+- Address: 厦门市思明区曾厝垵文创村
+
+Day 1 Stop 5: 环岛路（曾厝垵至黄厝段）
+- Why included: 沿途可欣赏海景和闽南特色建筑，傍晚散步或骑行，感受厦门慢生活。
+- Best time to visit: 下午16:30-17:30，日落前光线最佳。
+- Estimated stay: 1小时
+- Address: 厦门市思明区环岛南路
+
+Day 1 Stop 6: 老厦门文化街区（大同路-开元路）
+- Why included: 夜晚探访保存完好的骑楼老街，品尝夜宵小吃如花生汤、炸枣，感受老城区的静谧与历史。
+- Best time to visit: 晚上18:30-20:00，灯火初上，夜市小吃活跃。
+- Estimated stay: 1.5小时
+- Address: 厦门市思明区大同路与开元路交叉口"
+"11","厦门一日游，想吃本地小吃，也想看一些文化街区。","Local RAG Only","12","12","4","4","0","0.25","0","0.75","1","Title: 厦门一日美食与文化街区漫游
+
+Day 1 Stop 1: 八市
+- Why included: 厦门最地道的本地小吃和海鲜市场，满足您品尝本地小吃的需求，体验市井文化。
+- Best time to visit: 中午
+- Estimated stay: 90分钟
+- Address: 开禾路与营平路附近
+
+Day 1 Stop 2: 中山路步行街
+- Why included: 拥有百年骑楼建筑的文化街区，集小吃、购物与历史风貌于一体，适合感受厦门城市文化。
+- Best time to visit: 中午
+- Estimated stay: 90分钟
+- Address: 中山路
+
+Day 1 Stop 3: 顶澳仔猫街
+- Why included: 独特的猫主题文化街区，充满文艺气息，适合拍照和感受创意文化氛围。
+- Best time to visit: 中午
+- Estimated stay: 90分钟
+- Address: 顶澳仔路
+
+Day 1 Stop 4: 曾厝垵
+- Why included: 渔村改造的文创小吃街区，既有本地小吃又有文化创意，晚上氛围更佳。
+- Best time to visit: 傍晚
+- Estimated stay: 90分钟
+- Address: 曾厝垵"
+"11","厦门一日游，想吃本地小吃，也想看一些文化街区。","Local RAG + STCF","12","6","4","4","0","0.25","0","0.75","1","Title: Xiamen One-Day Food & Culture Walk
+
+Day 1 Stop 1: 八市
+- Why included: A lively local market perfect for tasting authentic Xiamen snacks and seafood, blending food with cultural immersion.
+- Best time to visit: Noon
+- Estimated stay: 90 minutes
+- Address: 开禾路与营平路附近
+
+Day 1 Stop 2: 中山路步行街
+- Why included: A historic pedestrian street with traditional arcade architecture, offering a mix of cultural sights and local小吃.
+- Best time to visit: Morning
+- Estimated stay: 90 minutes
+- Address: 中山路
+
+Day 1 Stop 3: 顶澳仔猫街
+- Why included: A charming cat-themed cultural street, ideal for relaxed exploration and photo opportunities.
+- Best time to visit: Morning
+- Estimated stay: 90 minutes
+- Address: 顶澳仔路
+
+Day 1 Stop 4: 曾厝垵
+- Why included: A former fishing village turned vibrant cultural and food hub, with numerous local snacks and creative shops.
+- Best time to visit: Noon or evening
+- Estimated stay: 90 minutes
+- Address: 曾厝垵"
+"12","厦门一日游，想去海边、老街和本地美食。","LLM Only","0","0","5","5","0","0","0","1","1","Title: 厦门滨海古早味一日游
+
+Day 1 Stop 1: 鼓浪屿（三丘田码头）
+- Why included: 经典海岛体验，融合海边风光与历史老街，可漫步龙头路品尝本地小吃。
+- Best time to visit: 08:00-09:00（避开人流高峰）
+- Estimated stay: 3小时
+- Address: 厦门市思明区鼓浪屿
+
+Day 1 Stop 2: 中山路步行街
+- Why included: 百年南洋骑楼老街，集中厦门老字号美食，如沙茶面、花生汤。
+- Best time to visit: 11:30-13:00（午餐时间）
+- Estimated stay: 1.5小时
+- Address: 厦门市思明区中山路
+
+Day 1 Stop 3: 环岛路（曾厝垵段）
+- Why included: 厦门最美海岸线，可骑行观海，途经文艺渔村曾厝垵。
+- Best time to visit: 14:00-16:00（午后阳光柔和）
+- Estimated stay: 2小时
+- Address: 厦门市思明区环岛南路
+
+Day 1 Stop 4: 沙坡尾艺术西区
+- Why included: 老渔港改造的文创街区，紧邻海边，保留传统避风坞风貌，周边有地道海鲜排档。
+- Best time to visit: 16:30-18:00（傍晚看日落）
+- Estimated stay: 1.5小时
+- Address: 厦门市思明区大学路沙坡尾
+
+Day 1 Stop 5: 第八市场（营平菜市场）
+- Why included: 本地人最爱的古早味市场，可尝现做海蛎煎、五香卷、土笋冻等小吃。
+- Best time to visit: 18:30-20:00（晚餐时段）
+- Estimated stay: 1.5小时
+- Address: 厦门市思明区开元路与横竹路交叉口"
+"12","厦门一日游，想去海边、老街和本地美食。","Local RAG Only","12","12","5","5","0","0","0","1","1","Title: 厦门经典一日游：海风老街与地道美食
+
+Day 1 Stop 1: 金榜公园
+- Why included: 清晨漫步本地休闲公园，感受厦门人的日常慢生活，为一天的行程轻松开场。
+- Best time to visit: 早晨
+- Estimated stay: 90分钟
+- Address: 金榜路附近
+
+Day 1 Stop 2: 大同路老街
+- Why included: 探访百年骑楼老街，品味厦门历史建筑与市井风情，满足“老街”需求。
+- Best time to visit: 上午
+- Estimated stay: 90分钟
+- Address: 大同路
+
+Day 1 Stop 3: 八市
+- Why included: 深入本地最热闹的菜市场，品尝新鲜海鲜和地道小吃，是体验厦门美食文化的核心站点。
+- Best time to visit: 中午
+- Estimated stay: 90分钟
+- Address: 开禾路与营平路附近
+
+Day 1 Stop 4: 厦门国际会展中心
+- Why included: 前往海边地标建筑，欣赏现代建筑与广阔海景，满足“海边”观景需求。
+- Best time to visit: 下午
+- Estimated stay: 90分钟
+- Address: 会展路198号
+
+Day 1 Stop 5: 澳头村
+- Why included: 傍晚探访海边渔村，感受文创与渔村风情，在宁静的海边结束一日旅程。
+- Best time to visit: 傍晚
+- Estimated stay: 90分钟
+- Address: 澳头社区"
+"12","厦门一日游，想去海边、老街和本地美食。","Local RAG + STCF","12","4","4","4","0","0","0","0.75","1","Title: 厦门一日经典游：老街·海景·美食
+
+Day 1 Stop 1: 大同路老街
+- Why included: 体验厦门骑楼老街风貌，感受本地文化氛围，适合上午悠闲漫步。
+- Best time to visit: 上午
+- Estimated stay: 90分钟
+- Address: 大同路
+
+Day 1 Stop 2: 八市
+- Why included: 厦门最地道的菜市场，品尝海鲜和本地小吃，满足美食需求。
+- Best time to visit: 中午
+- Estimated stay: 90分钟
+- Address: 开禾路与营平路附近
+
+Day 1 Stop 3: 菽庄花园
+- Why included: 欣赏园林与海景结合的美景，感受钢琴文化，满足看海需求。
+- Best time to visit: 下午
+- Estimated stay: 90分钟
+- Address: 鼓浪屿港仔后路
+
+Day 1 Stop 4: 龙头路
+- Why included: 鼓浪屿上的美食商业街，品尝小吃、购买伴手礼，丰富美食体验。
+- Best time to visit: 傍晚
+- Estimated stay: 90分钟
+- Address: 鼓浪屿龙头路"
+"13","帮我安排一个轻松的厦门 citywalk，少走路，不要太累。","LLM Only","0","0","5","5","0","0","0","0.6","0.4","Title: 厦门轻松慢行一日游
+
+Day 1 Stop 1: 鼓浪屿（三丘田码头登岛）
+- Why included: 经典景点，步行少，可乘电瓶车游览，感受海岛风情不费力。
+- Best time to visit: 上午9:00-10:00登岛，避开人流高峰。
+- Estimated stay: 2-3小时
+- Address: 厦门市思明区鼓浪屿
+
+Day 1 Stop 2: 龙头路商业街
+- Why included: 紧邻码头，小吃和手信集中，轻松逛吃，无需走远。
+- Best time to visit: 上午11:00-12:00
+- Estimated stay: 1小时
+- Address: 鼓浪屿龙头路
+
+Day 1 Stop 3: 中山路步行街
+- Why included: 回程后直接到达，骑楼建筑群，适合悠闲散步，有众多老字号美食。
+- Best time to visit: 下午1:00-2:30（午餐时间）
+- Estimated stay: 1.5小时
+- Address: 厦门市思明区中山路
+
+Day 1 Stop 4: 厦门植物园（西门入园）
+- Why included: 园区有观光车，可轻松游览热带雨林区和多肉区，景色优美不累人。
+- Best time to visit: 下午3:00-5:00（光线柔和）
+- Estimated stay: 2小时
+- Address: 厦门市思明区虎园路25号
+
+Day 1 Stop 5: 白城沙滩
+- Why included: 植物园附近，步行可达，看日落吹海风，适合放松休息。
+- Best time to visit: 下午5:30-6:30（日落时分）
+- Estimated stay: 1小时
+- Address: 厦门市思明区大学路白城校门附近"
+"13","帮我安排一个轻松的厦门 citywalk，少走路，不要太累。","Local RAG Only","12","12","4","4","0","0","0","1","0.25","Title: 厦门轻松一日漫步
+
+Day 1 Stop 1: 南普陀寺
+- Why included: 寺庙氛围宁静，步行轻松，适合放松心情，且免费开放。
+- Best time to visit: 上午
+- Estimated stay: 约1小时
+- Address: 思明南路515号
+
+Day 1 Stop 2: 厦门大学外部参观点
+- Why included: 在校园外欣赏建筑和拍照，无需走太多路，感受文化气息。
+- Best time to visit: 上午或中午
+- Estimated stay: 约30分钟
+- Address: 思明南路422号周边
+
+Day 1 Stop 3: 龙头路
+- Why included: 美食街集中，可轻松品尝小吃和购买伴手礼，步行距离短。
+- Best time to visit: 中午或傍晚
+- Estimated stay: 约1.5小时
+- Address: 鼓浪屿龙头路
+
+Day 1 Stop 4: 港仔后海滨浴场
+- Why included: 沙滩散步看海景，节奏舒缓，适合放松休息。
+- Best time to visit: 傍晚（日落时分）
+- Estimated stay: 约1小时
+- Address: 鼓浪屿港仔后路附近"
+"13","帮我安排一个轻松的厦门 citywalk，少走路，不要太累。","Local RAG + STCF","12","4","4","4","0","0","0","0.75","0","Title: 厦门轻松一日漫步
+
+Day 1 Stop 1: 鼓浪屿
+- Why included: 作为厦门标志性的海岛景点，这里风景优美、氛围悠闲，适合轻松漫步，感受世界遗产的魅力。
+- Best time to visit: 上午或中午
+- Estimated stay: 90分钟
+- Address: 鼓浪屿
+
+Day 1 Stop 2: 龙头路
+- Why included: 位于鼓浪屿上的美食商业街，可以品尝小吃、购买伴手礼，轻松享受休闲时光，且与鼓浪屿相邻，步行即可到达。
+- Best time to visit: 中午或傍晚
+- Estimated stay: 90分钟
+- Address: 鼓浪屿龙头路
+
+Day 1 Stop 3: 南普陀寺
+- Why included: 闽南著名佛教寺庙，文化氛围浓厚，环境清幽，适合静心参观，且无需走太多路。
+- Best time to visit: 上午或中午
+- Estimated stay: 90分钟
+- Address: 思明南路515号
+
+Day 1 Stop 4: 厦门大学外部参观点
+- Why included: 紧邻南普陀寺，可欣赏校园建筑外观并拍照留念，行程紧凑不费力，适合轻松游览。
+- Best time to visit: 上午或中午
+- Estimated stay: 90分钟
+- Address: 思明南路422号周边"
+"14","厦门晚上可以玩的路线，想要夜景和夜宵。","LLM Only","0","0","5","5","0.2","0","0","0.8","0.4","Title: Xiamen Night Lights & Late-Night Eats
+
+Day 1 Stop 1: Zhongshan Road Walking Street
+- Why included: Iconic pedestrian street with colonial architecture, vibrant night lights, and a lively atmosphere perfect for an evening stroll.
+- Best time to visit: 18:00–19:00
+- Estimated stay: 1–1.5 hours
+- Address: Zhongshan Road, Siming District, Xiamen
+
+Day 1 Stop 2: Gulangyu Island (Night View from Ferry)
+- Why included: Take a short ferry ride for stunning nighttime skyline views of Xiamen Island and the island’s own illuminated buildings.
+- Best time to visit: 19:30–20:00 (ferry)
+- Estimated stay: 30 minutes (ferry ride + brief walk)
+- Address: Ferry terminal at Lujiang Road, Siming District
+
+Day 1 Stop 3: Zengcuoan Village Night Market
+- Why included: Bustling night market with local street food, seafood stalls, and a youthful vibe; perfect for night snacks and photos.
+- Best time to visit: 20:30–22:00
+- Estimated stay: 1.5–2 hours
+- Address: Zengcuoan Village, Siming District, Xiamen
+
+Day 1 Stop 4: Huandao Road Seaside Night Walk
+- Why included: Scenic coastal road with gentle sea breeze, illuminated bridges, and a romantic night atmosphere; ideal for a post-meal walk.
+- Best time to visit: 22:00–23:00
+- Estimated stay: 1 hour
+- Address: Huandao Road, along the coast from Zengcuoan to Xiamen University area
+
+Day 1 Stop 5: Shapowei Art Zone (Night Bar & Eatery)
+- Why included: Trendy waterfront area with art galleries, live music bars, and late-night seafood restaurants; great for a nightcap or dessert.
+- Best time to visit: 23:00–00:30
+- Estimated stay: 1–1.5 hours
+- Address: Shapowei, Siming District, Xiamen"
+"14","厦门晚上可以玩的路线，想要夜景和夜宵。","Local RAG Only","12","12","4","4","0","0.25","0","1","1","Title: 厦门夜景与夜宵漫游路线
+
+Day 1 Stop 1: 筼筜湖
+- Why included: 筼筜湖是厦门城市夜景的精华，湖面倒映两岸灯光，适合悠闲散步欣赏夜景。
+- Best time to visit: 傍晚至夜间（18:00-20:00）
+- Estimated stay: 90分钟
+- Address: 筼筜湖周边
+
+Day 1 Stop 2: 白鹭洲公园
+- Why included: 紧邻筼筜湖，公园内灯光与湖景交融，是拍摄夜景和放松的好去处。
+- Best time to visit: 夜间（19:00-21:00）
+- Estimated stay: 90分钟
+- Address: 白鹭洲路
+
+Day 1 Stop 3: 海湾公园
+- Why included: 拥有海湾夜景和酒吧街，适合欣赏海景后体验夜生活氛围，为夜宵做准备。
+- Best time to visit: 夜间（20:00-22:00）
+- Estimated stay: 90分钟
+- Address: 湖滨西路
+
+Day 1 Stop 4: 厦门海上世界
+- Why included: 商业综合体，汇集餐饮和夜宵选择，可边享美食边看海港夜景，满足夜宵需求。
+- Best time to visit: 夜间（21:00-22:30）
+- Estimated stay: 90分钟
+- Address: 东渡邮轮母港片区"
+"14","厦门晚上可以玩的路线，想要夜景和夜宵。","Local RAG + STCF","12","2","2","2","0","0","0","1","1","Title: 厦门夜景与夜宵之旅
+
+Day 1 Stop 1: 厦门海上世界
+- Why included: 这里是欣赏厦门夜景的绝佳地点，位于海港旁，夜晚灯光璀璨，可以漫步海滨，感受海风与城市灯火交融的浪漫氛围。
+- Best time to visit: 傍晚至晚上（18:00-22:00），既能欣赏日落余晖，又能体验夜景魅力。
+- Estimated stay: 90分钟
+- Address: 东渡邮轮母港片区
+
+Day 1 Stop 2: 龙头路
+- Why included: 作为鼓浪屿著名的美食街，这里汇集了各种厦门特色小吃和夜宵，如沙茶面、海蛎煎等，夜晚热闹非凡，满足您的夜宵需求。
+- Best time to visit: 晚上（18:00-22:30），夜市氛围浓厚，适合品尝美食。
+- Estimated stay: 90分钟
+- Address: 鼓浪屿龙头路"
+"15","厦门两日游，想包含文化景点、海边风景和本地小吃。","LLM Only","0","0","10","5","0","0","0.1","1","1","Title: 厦门两日文化海滨美食精华游
+
+Day 1 Stop 1: 鼓浪屿
+- Why included: 世界文化遗产，集历史建筑、海滨风光与文艺小店于一体，完美融合文化景点与海边风景。
+- Best time to visit: 08:00-09:00 上岛，避开人流高峰
+- Estimated stay: 4-5小时
+- Address: 厦门市思明区鼓浪屿
+
+Day 1 Stop 2: 菽庄花园
+- Why included: 典型闽南园林，面朝大海，内有钢琴博物馆，体现文化底蕴与海景结合。
+- Best time to visit: 10:00-11:00
+- Estimated stay: 1-1.5小时
+- Address: 鼓浪屿港仔后路7号
+
+Day 1 Stop 3: 龙头路小吃街
+- Why included: 鼓浪屿核心美食区，可品尝叶氏麻糍、林记鱼丸、赵小姐的店等本地小吃。
+- Best time to visit: 11:30-12:30 午餐时间
+- Estimated stay: 1-1.5小时
+- Address: 鼓浪屿龙头路
+
+Day 1 Stop 4: 日光岩
+- Why included: 鼓浪屿最高点，俯瞰全岛与厦门天际线，海景壮阔，文化遗迹众多。
+- Best time to visit: 14:00-15:00
+- Estimated stay: 1小时
+- Address: 鼓浪屿晃岩路62号
+
+Day 1 Stop 5: 中山路步行街
+- Why included: 厦门老城区标志性商业街，南洋骑楼建筑，夜晚灯火璀璨，聚集黄则和花生汤、1980烧肉粽等经典小吃。
+- Best time to visit: 18:00-20:00 晚餐及夜游
+- Estimated stay: 2小时
+- Address: 厦门市思明区中山路
+
+Day 2 Stop 1: 南普陀寺
+- Why included: 闽南佛教圣地，免费开放，文化氛围浓厚，可登山远眺。
+- Best time to visit: 08:00-09:00
+- Estimated stay: 1-1.5小时
+- Address: 厦门市思明区思明南路515号
+
+Day 2 Stop 2: 厦门大学
+- Why included: 中国最美大学之一，嘉庚建筑与芙蓉湖、情人谷等景观兼具文化韵味。
+- Best time to visit: 09:30-11:00
+- Estimated stay: 1.5小时
+- Address: 厦门市思明区思明南路422号
+
+Day 2 Stop 3: 沙坡尾艺术西区
+- Why included: 老渔港改造的文创区，保留闽南古厝与渔船，同时有网红小吃和艺术空间。
+- Best time to visit: 11:30-13:00 午餐及闲逛
+- Estimated stay: 1.5小时
+- Address: 厦门市思明区大学路沙坡尾
+
+Day 2 Stop 4: 环岛路（曾厝垵至黄厝段）
+- Why included: 厦门最美海岸线，可骑行或漫步，欣赏海景、沙滩与音乐广场。
+- Best time to visit: 14:00-16:00
+- Estimated stay: 2小时
+- Address: 厦门市思明区环岛南路
+
+Day 2 Stop 5: 曾厝垵
+- Why included: 闽南渔村变身文创小吃街，汇集海蛎煎、土笋冻、沙茶面等本地风味。
+- Best time to visit: 16:30-18:00 傍晚时段
+- Estimated stay: 1.5小时
+- Address: 厦门市思明区曾厝垵文创村"
+"15","厦门两日游，想包含文化景点、海边风景和本地小吃。","Local RAG Only","12","12","9","4.5","0","0.111","0","1","1","Title: 厦门两日文化美食海滨之旅
+
+Day 1 Stop 1: 南普陀寺
+- Why included: 体验闽南佛教文化，感受古刹宁静，是厦门重要的文化景点。
+- Best time to visit: 上午
+- Estimated stay: 90分钟
+- Address: 思明南路515号
+
+Day 1 Stop 2: 铁路文化公园
+- Why included: 沿铁路遗址步道漫步，品味城市记忆，兼具文化与休闲。
+- Best time to visit: 上午
+- Estimated stay: 90分钟
+- Address: 文曾路附近
+
+Day 1 Stop 3: 中山路步行街
+- Why included: 欣赏骑楼建筑文化，同时品尝本地小吃，感受厦门老街风情。
+- Best time to visit: 中午或傍晚
+- Estimated stay: 90分钟
+- Address: 中山路
+
+Day 1 Stop 4: 八市
+- Why included: 深入本地菜市场，体验地道海鲜和小吃，满足美食探索需求。
+- Best time to visit: 中午或傍晚
+- Estimated stay: 90分钟
+- Address: 开禾路与营平路附近
+
+Day 1 Stop 5: 曾厝垵
+- Why included: 傍晚逛文创渔村，品尝小吃，感受海边文艺氛围和夜生活。
+- Best time to visit: 傍晚
+- Estimated stay: 90分钟
+- Address: 曾厝垵
+
+Day 2 Stop 1: 菽庄花园
+- Why included: 融合园林艺术与海景，欣赏钢琴文化，是鼓浪屿的文化精华。
+- Best time to visit: 上午
+- Estimated stay: 90分钟
+- Address: 鼓浪屿港仔后路
+
+Day 2 Stop 2: 鼓浪屿国际刻字艺术馆
+- Why included: 探索独特的刻字艺术，丰富文化体验。
+- Best time to visit: 上午
+- Estimated stay: 90分钟
+- Address: 鼓浪屿内
+
+Day 2 Stop 3: 龙头路
+- Why included: 在鼓浪屿美食街品尝本地小吃，购买伴手礼，享受悠闲时光。
+- Best time to visit: 中午或傍晚
+- Estimated stay: 90分钟
+- Address: 鼓浪屿龙头路
+
+Day 2 Stop 4: 金榜公园
+- Why included: 午后登山步道，俯瞰厦门山海景色，放松身心。
+- Best time to visit: 下午
+- Estimated stay: 90分钟
+- Address: 金榜路附近"
+"15","厦门两日游，想包含文化景点、海边风景和本地小吃。","Local RAG + STCF","12","12","9","4.5","0","0.111","0","1","1","Title: 厦门两日文化美食与海滨之旅
+
+Day 1 Stop 1: 菽庄花园
+- Why included: 融合园林与海景的文化景点，可欣赏钢琴文化，符合文化景点和海边风景需求。
+- Best time to visit: morning or noon
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿港仔后路
+
+Day 1 Stop 2: 鼓浪屿国际刻字艺术馆
+- Why included: 展示刻字艺术的文化场馆，丰富文化体验。
+- Best time to visit: morning or noon
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿内
+
+Day 1 Stop 3: 龙头路
+- Why included: 鼓浪屿著名小吃街，品尝本地小吃并购买伴手礼，适合中午或傍晚前往。
+- Best time to visit: noon or evening
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿龙头路
+
+Day 1 Stop 4: 八市
+- Why included: 本地菜市场，提供新鲜海鲜和地道小吃，体验厦门市井文化。
+- Best time to visit: noon or evening
+- Estimated stay: 90 minutes
+- Address: 开禾路与营平路附近
+
+Day 1 Stop 5: 中山路步行街
+- Why included: 骑楼建筑步行街，集文化、小吃、购物于一体，适合傍晚漫步。
+- Best time to visit: noon or evening
+- Estimated stay: 90 minutes
+- Address: 中山路
+
+Day 2 Stop 1: 南普陀寺
+- Why included: 闽南佛教文化圣地，兼具文化内涵与清幽环境。
+- Best time to visit: morning or afternoon
+- Estimated stay: 90 minutes
+- Address: 思明南路515号
+
+Day 2 Stop 2: 铁路文化公园
+- Why included: 利用旧铁路改建的文化步道，感受城市记忆，适合悠闲散步。
+- Best time to visit: morning or noon
+- Estimated stay: 90 minutes
+- Address: 文曾路附近
+
+Day 2 Stop 3: 金榜公园
+- Why included: 山地步道公园，可欣赏自然风光，体验本地休闲氛围。
+- Best time to visit: morning or afternoon
+- Estimated stay: 90 minutes
+- Address: 金榜路附近
+
+Day 2 Stop 4: 曾厝垵
+- Why included: 渔村改造的文创小吃街区，品尝本地小吃并感受文艺氛围，适合傍晚前往。
+- Best time to visit: noon or evening
+- Estimated stay: 90 minutes
+- Address: 曾厝垵"
+"16","第一次去厦门，帮我安排三天路线，要有经典景点和特色美食。","LLM Only","0","0","14","4.667","0.071","0.071","0","0.929","0.893","Title: 厦门经典三日游：山海风光与闽南美食之旅
+
+Day 1 Stop 1: 鼓浪屿
+- Why included: 厦门最著名的经典景点，拥有万国建筑群、日光岩和菽庄花园，是必打卡之地。
+- Best time to visit: 上午8:00-9:00登岛，避开人流高峰
+- Estimated stay: 4-5小时
+- Address: 厦门市思明区鼓浪屿
+
+Day 1 Stop 2: 龙头路美食街
+- Why included: 鼓浪屿上聚集特色小吃，如叶氏麻糍、林记鱼丸、赵小姐的店，体验地道闽南风味。
+- Best time to visit: 中午11:30-13:00
+- Estimated stay: 1-1.5小时
+- Address: 鼓浪屿龙头路
+
+Day 1 Stop 3: 中山路步行街
+- Why included: 厦门最繁华的商业街，有骑楼建筑和众多老字号美食，如黄则和花生汤、1980烧肉粽。
+- Best time to visit: 下午15:00-17:00
+- Estimated stay: 2小时
+- Address: 厦门市思明区中山路
+
+Day 1 Stop 4: 八市（厦门第八菜市场）
+- Why included: 本地人最爱的海鲜市场兼小吃聚集地，可品尝阿杰五香、钟丽君满煎糕等特色。
+- Best time to visit: 傍晚17:30-19:00
+- Estimated stay: 1.5小时
+- Address: 厦门市思明区开元路
+
+Day 2 Stop 1: 南普陀寺
+- Why included: 闽南佛教胜地，免费开放，可祈福并欣赏寺庙建筑，后山可俯瞰厦门全景。
+- Best time to visit: 上午8:00-10:00
+- Estimated stay: 1.5小时
+- Address: 厦门市思明区思明南路515号
+
+Day 2 Stop 2: 厦门大学
+- Why included: 中国最美大学之一，有芙蓉湖、情人谷和芙蓉隧道，校园建筑极具特色。
+- Best time to visit: 上午10:30-12:00（需提前预约）
+- Estimated stay: 1.5小时
+- Address: 厦门市思明区思明南路422号
+
+Day 2 Stop 3: 沙坡尾艺术西区
+- Why included: 老渔港改造的文创街区，有网红咖啡馆、艺术店和避风坞，适合拍照和午餐。
+- Best time to visit: 中午12:30-14:00
+- Estimated stay: 1.5小时
+- Address: 厦门市思明区大学路
+
+Day 2 Stop 4: 环岛路（曾厝垵至黄厝段）
+- Why included: 厦门最美海岸线，可骑行或散步，欣赏海景和沙滩，途经音乐广场。
+- Best time to visit: 下午14:30-16:30
+- Estimated stay: 2小时
+- Address: 厦门市思明区环岛南路
+
+Day 2 Stop 5: 曾厝垵
+- Why included: 文艺渔村，有各种小吃摊和手工艺品店，推荐品尝沙茶面和海蛎煎。
+- Best time to visit: 傍晚17:00-19:00
+- Estimated stay: 2小时
+- Address: 厦门市思明区曾厝垵文创村
+
+Day 3 Stop 1: 园林植物园（万石植物园）
+- Why included: 拥有多肉植物区、雨林世界等特色园区，雨林世界喷雾如仙境，适合拍照。
+- Best time to visit: 上午8:00-10:30
+- Estimated stay: 2.5小时
+- Address: 厦门市思明区虎园路25号
+
+Day 3 Stop 2: 钟鼓索道
+- Why included: 乘坐缆车俯瞰厦门市区和山海全景，与植物园相邻，体验独特。
+- Best time to visit: 上午10:45-11:30
+- Estimated stay: 40分钟
+- Address: 厦门市思明区虎园路31号
+
+Day 3 Stop 3: 猫街（顶澳仔路）
+- Why included: 以猫咪为主题的特色小街，有猫雕像和猫咪博物馆，适合闲逛并品尝小吃。
+- Best time to visit: 中午12:00-13:00
+- Estimated stay: 1小时
+- Address: 厦门市思明区顶澳仔路
+
+Day 3 Stop 4: 白城沙滩
+- Why included: 厦门大学旁的热门沙滩，可远眺鼓浪屿，适合散步和看日落。
+- Best time to visit: 下午16:00-18:00
+- Estimated stay: 2小时
+- Address: 厦门市思明区环岛南路
+
+Day 3 Stop 5: 世茂海峡大厦（云上厦门观景台）
+- Why included: 厦门地标建筑，55层观景台可360度俯瞰全城夜景，结束旅程的完美选择。
+- Best time to visit: 傍晚18:30-19:30
+- Estimated stay: 1小时
+- Address: 厦门市思明区大学路188号"
+"16","第一次去厦门，帮我安排三天路线，要有经典景点和特色美食。","Local RAG Only","12","12","15","5","0","0.267","0.2","1","0.95","Title: 厦门经典三日游：海岛风情与闽南美食之旅
+
+Day 1 Stop 1: 南普陀寺
+- Why included: 厦门经典文化景点，感受闽南佛教文化，为旅程开启宁静氛围。
+- Best time to visit: 上午
+- Estimated stay: 约1.5小时
+- Address: 思明南路515号
+
+Day 1 Stop 2: 厦门大学外部参观点
+- Why included: 欣赏最美校园的建筑与海滨风光，适合拍照打卡。
+- Best time to visit: 上午至中午
+- Estimated stay: 约1.5小时
+- Address: 思明南路422号周边
+
+Day 1 Stop 3: 龙头路
+- Why included: 鼓浪屿最热闹的美食街，品尝沙茶面、海蛎煎、鱼丸汤等特色小吃，购买伴手礼。
+- Best time to visit: 中午或傍晚
+- Estimated stay: 约2小时
+- Address: 鼓浪屿龙头路
+
+Day 1 Stop 4: 鼓浪屿
+- Why included: 世界遗产海岛，漫步万国建筑群，感受浪漫海岛风情。
+- Best time to visit: 下午
+- Estimated stay: 全天（与岛上景点结合）
+- Address: 鼓浪屿
+
+Day 1 Stop 5: 日光岩
+- Why included: 鼓浪屿制高点，俯瞰全岛及厦门海景，是经典观景地。
+- Best time to visit: 下午
+- Estimated stay: 约1.5小时
+- Address: 鼓浪屿晃岩路
+
+Day 1 Stop 6: 港仔后海滨浴场
+- Why included: 傍晚漫步沙滩，欣赏日落海景，放松身心。
+- Best time to visit: 傍晚
+- Estimated stay: 约1小时
+- Address: 鼓浪屿港仔后路附近
+
+Day 2 Stop 1: 菽庄花园
+- Why included: 融合园林与海景的经典景点，内有钢琴博物馆，文化气息浓厚。
+- Best time to visit: 上午
+- Estimated stay: 约1.5小时
+- Address: 鼓浪屿港仔后路
+
+Day 2 Stop 2: 鼓浪屿钢琴博物馆
+- Why included: 收藏珍贵古钢琴，了解鼓浪屿音乐文化。
+- Best time to visit: 上午
+- Estimated stay: 约1小时
+- Address: 鼓浪屿菽庄花园内
+
+Day 2 Stop 3: 皓月园
+- Why included: 海滨公园，观赏郑成功雕像，适合午后休闲。
+- Best time to visit: 中午至下午
+- Estimated stay: 约1.5小时
+- Address: 鼓浪屿东部海滨
+
+Day 2 Stop 4: 鼓浪屿风琴博物馆
+- Why included: 参观八卦楼内的巨型风琴，感受独特音乐历史。
+- Best time to visit: 下午
+- Estimated stay: 约1小时
+- Address: 鼓浪屿八卦楼
+
+Day 2 Stop 5: 龙头路
+- Why included: 再次探访美食街，尝试更多地道小吃如土笋冻、花生汤。
+- Best time to visit: 傍晚
+- Estimated stay: 约1.5小时
+- Address: 鼓浪屿龙头路
+
+Day 3 Stop 1: 三丘田码头
+- Why included: 从鼓浪屿返回厦门本岛的交通枢纽，可欣赏码头海景。
+- Best time to visit: 上午
+- Estimated stay: 约30分钟
+- Address: 鼓浪屿三丘田码头
+
+Day 3 Stop 2: 南普陀寺
+- Why included: 再次感受寺庙宁静，可品尝素斋或购买素饼作为特产。
+- Best time to visit: 上午
+- Estimated stay: 约1小时
+- Address: 思明南路515号
+
+Day 3 Stop 3: 厦门大学外部参观点
+- Why included: 补拍校园美景，或深入周边猫街、顶澳仔路探索文艺小店。
+- Best time to visit: 中午
+- Estimated stay: 约1.5小时
+- Address: 思明南路422号周边
+
+Day 3 Stop 4: 龙头路
+- Why included: 最后采购伴手礼，如馅饼、肉干，并享用一顿海鲜大餐。
+- Best time to visit: 下午至傍晚
+- Estimated stay: 约2小时
+- Address: 鼓浪屿龙头路"
+"16","第一次去厦门，帮我安排三天路线，要有经典景点和特色美食。","Local RAG + STCF","12","4","4","2","0","0","0","0.75","0.938","Title: 厦门经典三日游：海岛风情与闽南文化之旅
+
+Day 1 Stop 1: 鼓浪屿
+- Why included: 厦门必游的世界遗产海岛，拥有独特的建筑群和迷人海景，是经典景点代表。
+- Best time to visit: 上午或下午
+- Estimated stay: 90分钟
+- Address: 鼓浪屿
+
+Day 1 Stop 2: 龙头路
+- Why included: 鼓浪屿上最热闹的美食商业街，汇聚各种特色小吃和伴手礼，满足美食需求。
+- Best time to visit: 中午或傍晚
+- Estimated stay: 90分钟
+- Address: 鼓浪屿龙头路
+
+Day 2 Stop 1: 南普陀寺
+- Why included: 闽南著名佛教寺庙，文化底蕴深厚，可感受宁静氛围和传统建筑。
+- Best time to visit: 上午或下午
+- Estimated stay: 90分钟
+- Address: 思明南路515号
+
+Day 2 Stop 2: 厦门大学外部参观点
+- Why included: 中国最美校园之一，外观建筑独特，适合拍照打卡，感受学术氛围。
+- Best time to visit: 上午或下午
+- Estimated stay: 90分钟
+- Address: 思明南路422号周边
+
+Day 3: 自由探索日
+- 建议：可自行安排中山路步行街品尝更多厦门小吃，或前往环岛路骑行欣赏海景，体验当地生活。"
+"17","厦门一日游，想逛老街、市场和本地小吃店。","LLM Only","0","0","5","5","0.6","0","0","0.4","0.4","Title: Xiamen Old Town Food & Market Walk
+
+Day 1 Stop 1: Ba Jiaochang (Bagua) Market
+- Why included: A vibrant local market offering fresh produce, seafood, and street food, perfect for experiencing local life and picking up snacks.
+- Best time to visit: 8:00 AM - 10:00 AM
+- Estimated stay: 1 hour
+- Address: No. 56, Siming South Road, Siming District
+
+Day 1 Stop 2: Zhongshan Road Pedestrian Street
+- Why included: Xiamen's most famous historic shopping street, lined with arcade-style buildings, small shops, and traditional snack stalls.
+- Best time to visit: 10:30 AM - 12:30 PM
+- Estimated stay: 2 hours
+- Address: Zhongshan Road, Siming District
+
+Day 1 Stop 3: Lao Si Sha Cha Noodles (老四沙茶面)
+- Why included: A beloved local spot for authentic Xiamen-style sha cha noodles, a must-try local dish in a classic old-town setting.
+- Best time to visit: 12:30 PM - 1:30 PM (lunch)
+- Estimated stay: 1 hour
+- Address: No. 155, Siming South Road, Siming District
+
+Day 1 Stop 4: Babu Alley (八市)
+- Why included: An iconic old market alley famous for fresh seafood, local snacks like oyster omelets, and a lively, authentic atmosphere.
+- Best time to visit: 2:00 PM - 3:30 PM
+- Estimated stay: 1.5 hours
+- Address: Off Kaiyuan Road, Siming District
+
+Day 1 Stop 5: Zengcuoan Village
+- Why included: A charming seaside fishing village turned food street, offering local snacks, grilled seafood, and a relaxed vibe to end the day.
+- Best time to visit: 4:00 PM - 6:00 PM
+- Estimated stay: 2 hours
+- Address: Zengcuoan Road, Siming District"
+"17","厦门一日游，想逛老街、市场和本地小吃店。","Local RAG Only","12","12","4","4","0","0.25","0","0.75","1","Title: 厦门老街美食一日游
+
+Day 1 Stop 1: 大同路老街
+- Why included: 体验厦门骑楼老街风貌，感受本地文化氛围，适合上午悠闲漫步。
+- Best time to visit: 上午
+- Estimated stay: 90分钟
+- Address: 大同路
+
+Day 1 Stop 2: 八市
+- Why included: 厦门最地道的菜市场，品尝海鲜和本地小吃，满足美食探索需求。
+- Best time to visit: 中午
+- Estimated stay: 90分钟
+- Address: 开禾路与营平路附近
+
+Day 1 Stop 3: 中山路步行街
+- Why included: 逛骑楼步行街，继续品尝小吃和感受老街氛围，与八市和大同路相邻，衔接顺畅。
+- Best time to visit: 中午
+- Estimated stay: 90分钟
+- Address: 中山路
+
+Day 1 Stop 4: 曾厝垵
+- Why included: 体验渔村改造的文创小吃街区，夜晚氛围佳，适合傍晚至晚间游览。
+- Best time to visit: 傍晚
+- Estimated stay: 90分钟
+- Address: 曾厝垵"
+"17","厦门一日游，想逛老街、市场和本地小吃店。","Local RAG + STCF","12","6","4","4","0","0.25","0","0.75","1","Title: Xiamen Old Street, Market & Local Food One-Day Tour
+
+Day 1 Stop 1: 大同路老街
+- Why included: A classic old street with traditional Qilou architecture and local snack shops, perfect for experiencing Xiamen’s historic charm and food culture.
+- Best time to visit: Morning or noon
+- Estimated stay: 90 minutes
+- Address: 大同路
+
+Day 1 Stop 2: 八市
+- Why included: A lively local market famous for fresh seafood and authentic Xiamen street food, ideal for immersing in the city’s food scene.
+- Best time to visit: Noon or evening
+- Estimated stay: 90 minutes
+- Address: 开禾路与营平路附近
+
+Day 1 Stop 3: 中山路步行街
+- Why included: A bustling pedestrian street lined with Qilou buildings, offering a mix of local snacks, shops, and cultural sights.
+- Best time to visit: Morning or noon
+- Estimated stay: 90 minutes
+- Address: 中山路
+
+Day 1 Stop 4: 曾厝垵
+- Why included: A vibrant former fishing village turned food and文创 hub, packed with local小吃 and creative shops, great for an afternoon or evening visit.
+- Best time to visit: Noon or evening
+- Estimated stay: 90 minutes
+- Address: 曾厝垵"
+"18","厦门一日游，想看寺庙、历史建筑，也想吃闽南小吃。","LLM Only","0","0","5","5","0","0","0","1","1","Title: 厦门一日寺庙、历史与小吃之旅
+
+Day 1 Stop 1: 南普陀寺
+- Why included: 厦门著名佛教寺庙，香火鼎盛，建筑古朴，可感受宗教文化氛围。
+- Best time to visit: 上午8:00-9:00，游客较少，空气清新。
+- Estimated stay: 1-1.5小时
+- Address: 厦门市思明区思明南路515号
+
+Day 1 Stop 2: 厦门大学（历史建筑群）
+- Why included: 百年学府，拥有嘉庚风格历史建筑，如群贤楼、建南大礼堂，适合拍照和感受人文历史。
+- Best time to visit: 9:30-11:00，避开午间高温。
+- Estimated stay: 1.5-2小时
+- Address: 厦门市思明区思明南路422号
+
+Day 1 Stop 3: 中山路步行街（闽南小吃午餐）
+- Why included: 历史老街，骑楼建筑保存完好，集中了沙茶面、海蛎煎、土笋冻等经典闽南小吃。
+- Best time to visit: 11:30-13:00，午餐时段。
+- Estimated stay: 1.5小时（含用餐）
+- Address: 厦门市思明区中山路
+
+Day 1 Stop 4: 鼓浪屿（历史建筑群）
+- Why included: 世界文化遗产，岛上遍布领事馆旧址、华侨别墅等历史建筑，如八卦楼、黄荣远堂，兼具异国风情。
+- Best time to visit: 14:00-17:00，下午光线适合游览拍照。
+- Estimated stay: 3小时（含轮渡时间）
+- Address: 厦门市思明区鼓浪屿（轮渡从厦门轮渡码头出发）
+
+Day 1 Stop 5: 曾厝垵（闽南小吃晚餐）
+- Why included: 文艺渔村，傍晚热闹，可品尝姜母鸭、烧肉粽、花生汤等小吃，体验当地夜生活。
+- Best time to visit: 17:30-19:00，晚餐时段。
+- Estimated stay: 1.5小时（含用餐）
+- Address: 厦门市思明区曾厝垵文创村"
+"18","厦门一日游，想看寺庙、历史建筑，也想吃闽南小吃。","Local RAG Only","12","12","5","5","0","0","0","1","1","Title: 厦门寺庙历史与闽南小吃一日游
+
+Day 1 Stop 1: 南普陀寺
+- Why included: 厦门最著名的佛教寺庙，满足您看寺庙的需求，感受闽南佛教文化。
+- Best time to visit: 上午
+- Estimated stay: 90分钟
+- Address: 思明南路515号
+
+Day 1 Stop 2: 厦门大学外部参观点
+- Why included: 欣赏历史建筑风貌，感受百年学府的建筑美学与文化氛围。
+- Best time to visit: 上午
+- Estimated stay: 90分钟
+- Address: 思明南路422号周边
+
+Day 1 Stop 3: 胡里山炮台
+- Why included: 探访海防历史遗迹与古建筑，了解厦门近代历史。
+- Best time to visit: 中午
+- Estimated stay: 90分钟
+- Address: 曾厝垵路2号
+
+Day 1 Stop 4: 曾厝垵
+- Why included: 品尝地道闽南小吃，体验渔村文创氛围，满足您吃小吃的需求。
+- Best time to visit: 中午或傍晚
+- Estimated stay: 90分钟
+- Address: 曾厝垵
+
+Day 1 Stop 5: 中山路步行街
+- Why included: 漫步骑楼历史建筑群，继续品尝各类闽南小吃，感受厦门夜生活。
+- Best time to visit: 傍晚
+- Estimated stay: 90分钟
+- Address: 中山路"
+"18","厦门一日游，想看寺庙、历史建筑，也想吃闽南小吃。","Local RAG + STCF","12","5","5","5","0","0","0","1","1","Title: 厦门寺庙文化与闽南美食一日游
+
+Day 1 Stop 1: 南普陀寺
+- Why included: 厦门著名佛教寺庙，闽南文化代表，满足您看寺庙的需求
+- Best time to visit: 上午08:30-10:00
+- Estimated stay: 90分钟
+- Address: 思明南路515号
+
+Day 1 Stop 2: 厦门大学外部参观点
+- Why included: 欣赏厦大历史建筑风貌，感受校园文化氛围
+- Best time to visit: 上午10:30-12:00
+- Estimated stay: 90分钟
+- Address: 思明南路422号周边
+
+Day 1 Stop 3: 曾厝垵
+- Why included: 闽南渔村改造的文创小吃街区，品尝地道闽南小吃
+- Best time to visit: 中午12:30-14:00
+- Estimated stay: 90分钟
+- Address: 曾厝垵
+
+Day 1 Stop 4: 中山路步行街
+- Why included: 骑楼历史建筑与小吃美食集中地，体验闽南商业文化
+- Best time to visit: 下午14:30-16:00
+- Estimated stay: 90分钟
+- Address: 中山路
+
+Day 1 Stop 5: 龙头路
+- Why included: 鼓浪屿著名小吃街，品尝更多闽南特色小吃和伴手礼
+- Best time to visit: 下午16:30-18:00
+- Estimated stay: 90分钟
+- Address: 鼓浪屿龙头路"
+"19","帮我安排一个适合拍照的厦门轻松路线，不想赶行程。","LLM Only","0","0","6","6","0","0","0","1","0.917","Title: 厦门拍照轻松慢游一日
+
+Day 1 Stop 1: 沙坡尾艺术西区
+- Why included: 彩色涂鸦墙、复古渔船和创意小店，非常适合街拍和文艺风照片。
+- Best time to visit: 上午9:00-11:00，光线柔和，人少清静。
+- Estimated stay: 1.5小时
+- Address: 厦门市思明区大学路沙坡尾
+
+Day 1 Stop 2: 顶澳仔猫街
+- Why included: 猫咪主题彩绘墙和雕塑，可爱又上镜，适合轻松散步拍照。
+- Best time to visit: 上午11:00-12:00，光线明亮。
+- Estimated stay: 1小时
+- Address: 厦门市思明区顶澳仔路
+
+Day 1 Stop 3: 厦门大学（芙蓉隧道）
+- Why included: 芙蓉隧道内充满学生涂鸦作品，色彩丰富，是独特拍照背景。
+- Best time to visit: 中午12:00-13:30，避开人流高峰，隧道内光线均匀。
+- Estimated stay: 1小时
+- Address: 厦门市思明区思明南路422号
+
+Day 1 Stop 4: 环岛路（曾厝垵至黄厝段）
+- Why included: 海边栈道、沙滩和椰树，可拍蓝天大海自然风光，轻松不赶。
+- Best time to visit: 下午14:00-16:00，阳光斜照，海景最美。
+- Estimated stay: 2小时
+- Address: 厦门市思明区环岛南路
+
+Day 1 Stop 5: 鼓浪屿（龙头路至日光岩外围）
+- Why included: 万国建筑群和浪漫小巷，随手拍出复古风情，只逛外围不爬山。
+- Best time to visit: 下午16:30-18:00，黄昏光线柔和。
+- Estimated stay: 1.5小时
+- Address: 厦门市思明区鼓浪屿
+
+Day 1 Stop 6: 中山路步行街（夜景）
+- Why included: 骑楼建筑夜景灯光璀璨，适合拍城市夜景和人文街景。
+- Best time to visit: 晚上19:00-20:30，华灯初上。
+- Estimated stay: 1.5小时
+- Address: 厦门市思明区中山路"
+"19","帮我安排一个适合拍照的厦门轻松路线，不想赶行程。","Local RAG Only","12","12","4","4","0","0","0","0.75","0.938","Title: 厦门拍照轻松一日游
+
+Day 1 Stop 1: 顶澳仔猫街
+- Why included: 猫主题街区，色彩丰富、涂鸦可爱，非常适合拍照，氛围轻松不赶路。
+- Best time to visit: 上午
+- Estimated stay: 约1.5小时
+- Address: 顶澳仔路
+
+Day 1 Stop 2: 沙坡尾
+- Why included: 老港口与文创街区结合，有独特的渔港风情和艺术墙，拍照出片率高，适合悠闲漫步。
+- Best time to visit: 上午至中午
+- Estimated stay: 约1.5小时
+- Address: 沙坡尾
+
+Day 1 Stop 3: 厦门大学外部参观点
+- Why included: 校园外观建筑优美，适合取景拍摄，且与沙坡尾相邻，步行即可到达，行程连贯。
+- Best time to visit: 中午
+- Estimated stay: 约1.5小时
+- Address: 思明南路422号周边
+
+Day 1 Stop 4: 梅海岭
+- Why included: 三角梅花海和山地公园，自然风光优美，是拍照的绝佳地点，环境清幽适合放松。
+- Best time to visit: 下午
+- Estimated stay: 约1.5小时
+- Address: 东坪山路附近"
+"19","帮我安排一个适合拍照的厦门轻松路线，不想赶行程。","Local RAG + STCF","12","4","4","4","0","0","0","0.75","0.875","Title: 厦门轻松拍照一日游
+
+Day 1 Stop 1: 梅海岭
+- Why included: 三角梅花海与山地公园，非常适合拍照，轻松漫步不赶行程
+- Best time to visit: 上午
+- Estimated stay: 90分钟
+- Address: 东坪山路附近
+
+Day 1 Stop 2: 厦门大学外部参观点
+- Why included: 校园建筑与外观极具特色，是拍照打卡的好地方，轻松游览
+- Best time to visit: 上午或中午
+- Estimated stay: 90分钟
+- Address: 思明南路422号周边
+
+Day 1 Stop 3: 沙坡尾
+- Why included: 老港口文创区，充满文艺气息，适合拍照和悠闲散步
+- Best time to visit: 上午或中午
+- Estimated stay: 90分钟
+- Address: 沙坡尾
+
+Day 1 Stop 4: 鼓浪屿
+- Why included: 海岛世界遗产，建筑与海景绝佳，轻松拍照感受浪漫氛围
+- Best time to visit: 上午或下午
+- Estimated stay: 90分钟
+- Address: 鼓浪屿"
+"20","厦门晚上路线，想吃东西、看海景，不想去太远的地方。","LLM Only","0","0","5","5","0","0","0","0.6","1","Title: 厦门晚间海景美食漫步
+
+Day 1 Stop 1: 中山路步行街
+- Why included: 品尝地道小吃（如沙茶面、海蛎煎），感受老城热闹氛围
+- Best time to visit: 傍晚5:30-6:30
+- Estimated stay: 1.5小时
+- Address: 厦门市思明区中山路
+
+Day 1 Stop 2: 鹭江道海滨步道
+- Why included: 沿江散步欣赏鼓浪屿夜景，海风拂面，视野开阔
+- Best time to visit: 晚上7:00-7:30
+- Estimated stay: 30分钟
+- Address: 厦门市思明区鹭江道
+
+Day 1 Stop 3: 厦门第八菜市场（八市）
+- Why included: 体验本地人夜宵文化，吃海鲜烧烤、土笋冻等风味
+- Best time to visit: 晚上7:30-8:30
+- Estimated stay: 1小时
+- Address: 厦门市思明区开平路
+
+Day 1 Stop 4: 海湾公园
+- Why included: 海边草坪静坐观海，远眺海沧大桥灯光，适合放松
+- Best time to visit: 晚上8:45-9:30
+- Estimated stay: 45分钟
+- Address: 厦门市思明区湖滨西路
+
+Day 1 Stop 5: 沙坡尾避风坞
+- Why included: 文艺小店与渔船交织，吃夜宵（如烧肉粽、鱼丸汤），看内海夜景
+- Best time to visit: 晚上9:45-10:30
+- Estimated stay: 45分钟
+- Address: 厦门市思明区大学路附近"
+"20","厦门晚上路线，想吃东西、看海景，不想去太远的地方。","Local RAG Only","12","12","4","4","0","0","0","1","1","Title: 厦门夜间海景美食漫步
+
+Day 1 Stop 1: 演武大桥观景平台
+- Why included: 夜晚可欣赏海景与城市灯光，距离近且免费开放，适合看海景。
+- Best time to visit: 晚上
+- Estimated stay: 约30分钟
+- Address: 演武大桥附近
+
+Day 1 Stop 2: 白城沙滩
+- Why included: 紧邻演武大桥，夜间沙滩散步看海景，氛围轻松。
+- Best time to visit: 晚上
+- Estimated stay: 约40分钟
+- Address: 厦门大学白城附近
+
+Day 1 Stop 3: 环岛路
+- Why included: 沿滨海道路散步或骑行，享受海风与夜景，且不远离市区。
+- Best time to visit: 晚上
+- Estimated stay: 约45分钟
+- Address: 厦门环岛南路
+
+Day 1 Stop 4: 中山路-八市-沙坡尾片区（美食区）
+- Why included: 该区域聚集众多小吃和餐厅，方便吃晚餐或宵夜，满足吃东西需求，且距离海景点近。
+- Best time to visit: 晚上
+- Estimated stay: 约1小时
+- Address: 中山路、八市、沙坡尾一带"
+"20","厦门晚上路线，想吃东西、看海景，不想去太远的地方。","Local RAG + STCF","12","5","4","4","0","0","0","1","1","Title: 厦门夜晚海景美食漫步
+
+Day 1 Stop 1: 演武大桥观景平台
+- Why included: 夜晚可欣赏海景与城市灯光，且靠近美食区，方便后续用餐。
+- Best time to visit: 傍晚至夜间
+- Estimated stay: 约1小时
+- Address: 演武大桥附近
+
+Day 1 Stop 2: 白城沙滩
+- Why included: 紧邻演武大桥，适合夜晚散步看海景，感受海风。
+- Best time to visit: 傍晚至夜间
+- Estimated stay: 约1.5小时
+- Address: 厦门大学白城附近
+
+Day 1 Stop 3: 环岛路
+- Why included: 沿路可欣赏海景，夜晚骑行或散步都很惬意，且距离不远。
+- Best time to visit: 夜间
+- Estimated stay: 约1.5小时
+- Address: 厦门环岛南路
+
+Day 1 Stop 4: 黄厝海滩
+- Why included: 夜晚海滩宁静，适合看海景，且位于环岛路沿线，交通方便。
+- Best time to visit: 夜间
+- Estimated stay: 约1.5小时
+- Address: 黄厝海滨"
+"21","Plan a Monday Xiamen route with attractions that are likely to be open.","LLM Only","0","0","6","6","0.167","0","0","0.5","0.833","Title: Monday Xiamen Island Highlights
+
+Day 1 Stop 1: Gulangyu Island
+- Why included: A car-free island with colonial architecture, beaches, and cultural sites, typically open on Mondays.
+- Best time to visit: 8:30 AM to avoid crowds and enjoy cooler morning weather.
+- Estimated stay: 3–4 hours
+- Address: Ferry from Xiamen Ferry Terminal (Lujiang Road, Siming District)
+
+Day 1 Stop 2: Nanputuo Temple
+- Why included: A famous Buddhist temple with beautiful halls and a mountain backdrop, open daily including Monday mornings.
+- Best time to visit: 10:00 AM after returning from Gulangyu, as it opens at 8:00 AM.
+- Estimated stay: 1.5 hours
+- Address: 515 Siming South Road, Siming District
+
+Day 1 Stop 3: Xiamen University
+- Why included: A scenic campus with lakes and traditional architecture, open to visitors on weekdays (Monday) from 12:00 PM to 2:00 PM (limited entry).
+- Best time to visit: 12:00 PM to combine with lunch nearby.
+- Estimated stay: 1 hour
+- Address: 422 Siming South Road, Siming District
+
+Day 1 Stop 4: Zhongshan Road Walking Street
+- Why included: A historic pedestrian street with shops, snacks, and colonial buildings, lively on Monday afternoons.
+- Best time to visit: 2:00 PM for shopping and local food.
+- Estimated stay: 2 hours
+- Address: Zhongshan Road, Siming District
+
+Day 1 Stop 5: Hulishan Fortress
+- Why included: A historic coastal fort with cannons and ocean views, open on Mondays.
+- Best time to visit: 4:30 PM to catch sunset views.
+- Estimated stay: 1 hour
+- Address: 2 Zengcuoan Road, Siming District
+
+Day 1 Stop 6: Zengcuoan Village
+- Why included: A lively artsy village with cafes, boutiques, and beach access, open in the evening on Mondays.
+- Best time to visit: 5:30 PM for dinner and nightlife.
+- Estimated stay: 1.5–2 hours
+- Address: Zengcuoan, Siming District"
+"21","Plan a Monday Xiamen route with attractions that are likely to be open.","Local RAG Only","12","12","6","6","0","0","0.5","1","1","Title: A Monday Scenic & Cultural Tour of Gulangyu Island
+
+Day 1 Stop 1: 三丘田码头
+- Why included: This is the main arrival point on Gulangyu Island, offering a scenic first view of the island and easy access to other attractions.
+- Best time to visit: Morning
+- Estimated stay: 30 minutes
+- Address: 鼓浪屿三丘田码头
+
+Day 1 Stop 2: 日光岩
+- Why included: The highest point on the island, providing panoramic views of Gulangyu and the Xiamen skyline—a must-see for scenery lovers.
+- Best time to visit: Morning
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿晃岩路
+
+Day 1 Stop 3: 菽庄花园
+- Why included: A beautiful seaside garden with classical Chinese architecture and the famous Piano Museum inside, blending culture and scenery.
+- Best time to visit: Late morning
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿港仔后路
+
+Day 1 Stop 4: 龙头路
+- Why included: The island’s main food and shopping street, perfect for a lunch break and sampling local snacks and souvenirs.
+- Best time to visit: Noon
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿龙头路
+
+Day 1 Stop 5: 皓月园
+- Why included: A coastal park featuring a large statue of Zheng He, with lovely seaside views and a relaxed atmosphere for an afternoon stroll.
+- Best time to visit: Afternoon
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿东部海滨
+
+Day 1 Stop 6: 港仔后海滨浴场
+- Why included: A sandy beach ideal for unwinding at the end of the day, watching the sunset, and enjoying the sea breeze.
+- Best time to visit: Evening (sunset)
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿港仔后路附近"
+"21","Plan a Monday Xiamen route with attractions that are likely to be open.","Local RAG + STCF","12","4","4","4","0","0","0","0.75","1","Title: Monday Xiamen Island & University Route
+
+Day 1 Stop 1: 鼓浪屿
+- Why included: A scenic island with world heritage architecture and sea views, open all day and ideal for a morning visit.
+- Best time to visit: Morning
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿
+
+Day 1 Stop 2: 龙头路
+- Why included: A lively food and shopping street on Gulangyu, perfect for lunch and exploring local snacks; opens at 10:00.
+- Best time to visit: Noon
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿龙头路
+
+Day 1 Stop 3: 南普陀寺
+- Why included: A cultural temple with Buddhist heritage, open from 08:30 to 17:30, suitable for an afternoon visit.
+- Best time to visit: Afternoon
+- Estimated stay: 90 minutes
+- Address: 思明南路515号
+
+Day 1 Stop 4: 厦门大学外部参观点
+- Why included: A scenic campus area for photography and architecture appreciation, best visited in the afternoon.
+- Best time to visit: Afternoon
+- Estimated stay: 90 minutes
+- Address: 思明南路422号周边"
+"22","Plan a Xiamen food route with breakfast, lunch, afternoon snack, and dinner.","LLM Only","0","0","6","6","0.333","0.167","0","0.667","0.5","Title: A Day of Xiamen Flavors: From Morning Noodles to Night Seafood
+
+Day 1 Stop 1: Wu Zai Ji Noodle Shop (乌仔埕沙茶面)
+- Why included: A local favorite for authentic Xiamen satay noodles, a must-try breakfast dish with rich, spicy broth.
+- Best time to visit: 7:30 AM to 9:00 AM
+- Estimated stay: 30 minutes
+- Address: 155-1 Siming South Road, Siming District
+
+Day 1 Stop 2: Zhongshan Road Walking Street (中山路步行街)
+- Why included: Explore this bustling pedestrian street for a mid-morning snack of oyster omelet (oh ah jian) from street stalls, a classic Xiamen street food.
+- Best time to visit: 10:00 AM to 11:30 AM
+- Estimated stay: 1.5 hours
+- Address: Zhongshan Road, Siming District
+
+Day 1 Stop 3: Lianhua Seafood Restaurant (莲花海鲜餐厅)
+- Why included: Offers a traditional Xiamen lunch experience with fresh seafood dishes like steamed fish and stir-fried clams, a local institution.
+- Best time to visit: 12:00 PM to 1:30 PM
+- Estimated stay: 1.5 hours
+- Address: 108 Lianhua North Road, Siming District
+
+Day 1 Stop 4: Gulangyu Island (鼓浪屿) - Snack Stroll
+- Why included: Afternoon snack on the island, sampling local specialties like coconut cake and fish balls from vendors near the beach.
+- Best time to visit: 2:30 PM to 4:00 PM
+- Estimated stay: 1.5 hours (ferry time included)
+- Address: Ferry from Gulangyu Pier, Siming District
+
+Day 1 Stop 5: A Jia Seafood Restaurant (阿佳海鲜大排档)
+- Why included: A popular dinner spot for Xiamen-style seafood hotpot and grilled squid, ending the day with a hearty local feast.
+- Best time to visit: 5:30 PM to 7:00 PM
+- Estimated stay: 1.5 hours
+- Address: 88 Hubin East Road, Siming District
+
+Day 1 Stop 6: Zeng Cuo An Night Market (曾厝垵夜市)
+- Why included: Evening dessert and drinks, trying peanut soup, taro balls, and sugarcane juice at this lively night market.
+- Best time to visit: 7:30 PM to 9:00 PM
+- Estimated stay: 1.5 hours
+- Address: Zeng Cuo An Village, Siming District"
+"22","Plan a Xiamen food route with breakfast, lunch, afternoon snack, and dinner.","Local RAG Only","12","12","5","5","0","0","0","1","0","Title: A Day of Xiamen Flavors: From Morning Bites to Evening Feasts
+
+Day 1 Stop 1: 南普陀寺
+- Why included: Start your day with a serene visit to this iconic temple, then enjoy a classic Xiamen breakfast of savory noodle soup or steamed buns at the nearby vegetarian food hall or local stalls.
+- Best time to visit: Morning
+- Estimated stay: 90 minutes
+- Address: 思明南路515号
+
+Day 1 Stop 2: 厦门大学外部参观点
+- Why included: Stroll around the beautiful campus grounds for a cultural and scenic walk, then grab a casual lunch at one of the student-favorite eateries just outside the gates, known for affordable local dishes like fried oysters or rice noodles.
+- Best time to visit: Late morning to noon
+- Estimated stay: 90 minutes
+- Address: 思明南路422号周边
+
+Day 1 Stop 3: 白城沙滩
+- Why included: After lunch, relax on the sandy beach and enjoy the sea breeze. Nearby snack vendors offer quick afternoon treats like grilled squid or shaved ice, perfect for a light snack.
+- Best time to visit: Afternoon
+- Estimated stay: 90 minutes
+- Address: 厦门大学白城附近
+
+Day 1 Stop 4: 鼓浪屿
+- Why included: Take a short ferry to this charming island for an evening exploration. The island is filled with cozy restaurants and street food stalls serving Xiamen specialties like seafood hotpot, spring rolls, and peanut soup for a delightful dinner.
+- Best time to visit: Evening
+- Estimated stay: 90 minutes (plus ferry time)
+- Address: 鼓浪屿
+
+Day 1 Stop 5: 三丘田码头
+- Why included: End your food journey by departing from this scenic wharf, where you can catch a night ferry back while enjoying the illuminated skyline and perhaps a final snack from the dockside vendors.
+- Best time to visit: Late evening
+- Estimated stay: 30 minutes
+- Address: 鼓浪屿三丘田码头"
+"22","Plan a Xiamen food route with breakfast, lunch, afternoon snack, and dinner.","Local RAG + STCF","12","0","4","4","1","0.75","0","0","0","Title: Xiamen Food Route
+
+Day 1 Stop 1: No POIs available
+- Why included: No suitable POIs found in the allowed list
+- Best time to visit: unknown
+- Estimated stay: unknown
+- Address: unknown
+
+Day 1 Stop 2: No POIs available
+- Why included: No suitable POIs found in the allowed list
+- Best time to visit: unknown
+- Estimated stay: unknown
+- Address: unknown
+
+Day 1 Stop 3: No POIs available
+- Why included: No suitable POIs found in the allowed list
+- Best time to visit: unknown
+- Estimated stay: unknown
+- Address: unknown
+
+Day 1 Stop 4: No POIs available
+- Why included: No suitable POIs found in the allowed list
+- Best time to visit: unknown
+- Estimated stay: unknown
+- Address: unknown"
+"23","Plan a Xiamen cultural route including old architecture and historical streets.","LLM Only","0","0","6","6","0","0","0","1","1","Title: Xiamen's Historic Architecture & Old Streets Route
+
+Day 1 Stop 1: Gulangyu Island
+- Why included: A car-free island with a rich collection of colonial-era architecture, old villas, and historical streets, showcasing Xiamen's multicultural past.
+- Best time to visit: Early morning to avoid crowds and enjoy the peaceful atmosphere.
+- Estimated stay: 3-4 hours
+- Address: Ferry from Xiamen Ferry Terminal to Gulangyu Island
+
+Day 1 Stop 2: Shuzhuang Garden
+- Why included: A classic seaside garden on Gulangyu featuring traditional Chinese landscaping blended with Western architectural elements, reflecting Xiamen's cultural fusion.
+- Best time to visit: Mid-morning after exploring the island.
+- Estimated stay: 1-1.5 hours
+- Address: No. 45 Gangzaihou Road, Gulangyu Island
+
+Day 1 Stop 3: Zhongshan Road
+- Why included: A historic pedestrian street lined with well-preserved arcade buildings from the early 20th century, offering a glimpse into old Xiamen's commercial life.
+- Best time to visit: Late afternoon for a relaxed stroll and shopping.
+- Estimated stay: 1.5-2 hours
+- Address: Zhongshan Road, Siming District
+
+Day 1 Stop 4: Nanputuo Temple
+- Why included: A centuries-old Buddhist temple complex with traditional Minnan architecture, set against a mountain backdrop, representing Xiamen's spiritual heritage.
+- Best time to visit: Late afternoon before sunset for serene lighting.
+- Estimated stay: 1-1.5 hours
+- Address: No. 515 Siming South Road, Siming District
+
+Day 1 Stop 5: Xiamen University
+- Why included: A historic university campus featuring graceful old buildings in a blend of Chinese and Western styles, surrounded by lush gardens and near the coast.
+- Best time to visit: Late afternoon for a leisurely walk.
+- Estimated stay: 1-1.5 hours
+- Address: No. 422 Siming South Road, Siming District
+
+Day 1 Stop 6: Zengcuoan Village
+- Why included: A former fishing village turned cultural enclave with narrow lanes, old stone houses, and artistic shops, offering a taste of traditional Xiamen street life.
+- Best time to visit: Early evening for a vibrant atmosphere and local snacks.
+- Estimated stay: 1-2 hours
+- Address: Zengcuoan Village, Siming District"
+"23","Plan a Xiamen cultural route including old architecture and historical streets.","Local RAG Only","12","12","6","6","0","0","0.167","0.833","1","Title: Xiamen Old Architecture & Historical Streets Cultural Route
+
+Day 1 Stop 1: 华新路老别墅区
+- Why included: Showcases historic old villas and a literary artsy district, perfect for experiencing Xiamen’s old architecture and cultural atmosphere.
+- Best time to visit: Morning or afternoon
+- Estimated stay: 90 minutes
+- Address: 华新路, 思明区
+
+Day 1 Stop 2: 大同路老街
+- Why included: Features classic arcade (qilou) architecture and local snacks, offering an authentic historical street experience.
+- Best time to visit: Noon or evening
+- Estimated stay: 90 minutes
+- Address: 大同路, 思明区
+
+Day 1 Stop 3: 鼓浪屿
+- Why included: A UNESCO World Heritage site with diverse old architecture and cultural heritage, central to Xiamen’s history.
+- Best time to visit: Morning or afternoon
+- Estimated stay: 90 minutes (for island exploration; allow more time for full visit)
+- Address: 鼓浪屿, 思明区
+
+Day 1 Stop 4: 菽庄花园
+- Why included: A historic garden with piano culture and scenic sea views, blending old architecture with cultural significance.
+- Best time to visit: Morning or afternoon
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿港仔后路, 思明区
+
+Day 1 Stop 5: 鼓浪屿钢琴博物馆
+- Why included: Houses a unique collection of antique pianos, highlighting the island’s musical heritage and cultural depth.
+- Best time to visit: Morning or afternoon
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿菽庄花园内, 思明区
+
+Day 1 Stop 6: 龙头路
+- Why included: A lively street with local food and shops, providing a taste of daily culture and old-town ambiance.
+- Best time to visit: Noon or evening
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿龙头路, 思明区"
+"23","Plan a Xiamen cultural route including old architecture and historical streets.","Local RAG + STCF","12","4","4","4","0","0","0","0.75","1","Title: Xiamen Cultural Heritage & Historic Streets Tour
+
+Day 1 Stop 1: 华新路老别墅区
+- Why included: A charming area of old villas showcasing historic architecture and a relaxed artistic atmosphere, perfect for starting a cultural exploration.
+- Best time to visit: Morning
+- Estimated stay: 90 minutes
+- Address: 华新路
+
+Day 1 Stop 2: 大同路老街
+- Why included: A classic old street with traditional arcade buildings (骑楼) and local snacks, offering a deep dive into Xiamen’s historical street life and culture.
+- Best time to visit: Noon
+- Estimated stay: 90 minutes
+- Address: 大同路
+
+Day 1 Stop 3: 嘉禾良库仓廪文化旅游区
+- Why included: A creative cultural park transformed from industrial granaries, blending industrial heritage with modern文创, ideal for understanding Xiamen’s evolving cultural landscape.
+- Best time to visit: Morning or afternoon
+- Estimated stay: 90 minutes
+- Address: 湖里区
+
+Day 1 Stop 4: 惠和石文化园
+- Why included: A cultural park dedicated to stone carving and intangible cultural heritage, providing insight into traditional craftsmanship and local art.
+- Best time to visit: Morning or afternoon
+- Estimated stay: 90 minutes
+- Address: 吕岭路附近"
+"24","Plan a Xiamen seaside route with beaches, island views, and sunset.","LLM Only","0","0","6","6","0","0.167","0","1","0.892","Title: Xiamen Seaside Sunsets & Island Views
+
+Day 1 Stop 1: Gulangyu Island
+- Why included: Iconic island with colonial architecture, beaches, and panoramic sea views from Sunlight Rock.
+- Best time to visit: Morning to early afternoon (9:00 AM - 1:00 PM)
+- Estimated stay: 3-4 hours
+- Address: Gulangyu Island, Xiamen, Fujian
+
+Day 1 Stop 2: Huandao Road (Xiamen Island Ring Road)
+- Why included: Scenic coastal road with bike paths, beaches, and continuous ocean vistas.
+- Best time to visit: Late afternoon (2:00 PM - 4:00 PM)
+- Estimated stay: 1.5-2 hours (cycling or walking a section)
+- Address: Huandao Road, Siming District, Xiamen
+
+Day 1 Stop 3: Baicheng Beach (White City Beach)
+- Why included: Popular sandy beach near Xiamen University, perfect for a seaside stroll and water views.
+- Best time to visit: Late afternoon (4:00 PM - 5:30 PM)
+- Estimated stay: 1-1.5 hours
+- Address: Baicheng Beach, Siming District, Xiamen
+
+Day 1 Stop 4: Zengcuoan Village
+- Why included: Lively seaside village with beach access, cafes, and a relaxed atmosphere for sunset.
+- Best time to visit: Late afternoon to sunset (5:30 PM - 7:00 PM)
+- Estimated stay: 1.5-2 hours
+- Address: Zengcuoan Village, Siming District, Xiamen
+
+Day 1 Stop 5: Music Square (Yinyue Square) on Huandao Road
+- Why included: Open square with excellent sunset views over the sea and nearby islands.
+- Best time to visit: Sunset (5:30 PM - 6:30 PM, depending on season)
+- Estimated stay: 30-45 minutes
+- Address: Huandao Road, near Huangcuo Beach, Siming District, Xiamen
+
+Day 1 Stop 6: Shapowei (Shapowei Art Zone)
+- Why included: Waterfront art district with harbor views, seafood dining, and evening lights reflecting on the water.
+- Best time to visit: Evening (7:00 PM onwards)
+- Estimated stay: 1-2 hours (for dinner and walk)
+- Address: Shapowei, Siming District, Xiamen"
+"24","Plan a Xiamen seaside route with beaches, island views, and sunset.","Local RAG Only","12","12","4","4","0","0","0.25","1","0.938","Title: Xiamen Seaside Sunset & Island Views Route
+
+Day 1 Stop 1: 鼓浪屿
+- Why included: Iconic island with stunning sea views and beaches, perfect for starting a seaside route.
+- Best time to visit: Morning
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿
+
+Day 1 Stop 2: 日光岩
+- Why included: Offers panoramic island and ocean views, ideal for scenic appreciation.
+- Best time to visit: Late morning
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿晃岩路
+
+Day 1 Stop 3: 港仔后海滨浴场
+- Why included: Beautiful beach on Gulangyu for seaside relaxation and beach views.
+- Best time to visit: Afternoon
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿港仔后路附近
+
+Day 1 Stop 4: 皓月园
+- Why included: Coastal garden with sunset views over the sea and the iconic Zheng Chenggong statue.
+- Best time to visit: Sunset
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿东部海滨"
+"24","Plan a Xiamen seaside route with beaches, island views, and sunset.","Local RAG + STCF","12","5","5","5","0","0","0","1","0.95","Title: Xiamen Seaside Sunset & Island Views Route
+
+Day 1 Stop 1: 鼓浪屿
+- Why included: Offers stunning island views and a scenic seaside atmosphere, perfect for starting the route with island exploration and coastal scenery.
+- Best time to visit: Morning or afternoon
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿
+
+Day 1 Stop 2: 白城沙滩
+- Why included: A classic beach with beautiful sea views and sunset vistas, ideal for enjoying the seaside and watching the sun go down.
+- Best time to visit: Sunset
+- Estimated stay: 90 minutes
+- Address: 厦门大学白城附近
+
+Day 1 Stop 3: 黄厝海滩
+- Why included: A serene beach along the coastal road, offering great sea views and a relaxed atmosphere for sunset appreciation.
+- Best time to visit: Sunset
+- Estimated stay: 90 minutes
+- Address: 黄厝海滨
+
+Day 1 Stop 4: 观音山沙滩
+- Why included: A spacious beach with scenic sea views, perfect for a leisurely stroll and enjoying the coastal sunset.
+- Best time to visit: Sunset
+- Estimated stay: 90 minutes
+- Address: 观音山海滨
+
+Day 1 Stop 5: 海沧湾公园
+- Why included: A bay park with panoramic island views and a prime spot for sunset, offering a peaceful end to the seaside route.
+- Best time to visit: Sunset
+- Estimated stay: 90 minutes
+- Address: 海沧湾公园"
+"25","Plan a two-day Xiamen trip for someone who likes slow travel and photography.","LLM Only","0","0","9","4.5","0.222","0","0","0.667","0.306","Title: Xiamen Slow Photography Journey
+
+Day 1 Stop 1: Gulangyu Island
+- Why included: A car-free island with colonial architecture, quiet alleys, and coastal views perfect for slow exploration and photography.
+- Best time to visit: Early morning to avoid crowds and capture soft light.
+- Estimated stay: 3-4 hours
+- Address: Ferry from Xiamen Ferry Terminal to Gulangyu Island
+
+Day 1 Stop 2: Shuzhuang Garden
+- Why included: A tranquil seaside garden with elegant pavilions, rockeries, and ocean vistas ideal for contemplative photography.
+- Best time to visit: Late morning after exploring the island.
+- Estimated stay: 1-1.5 hours
+- Address: No. 7 Guanyin Road, Gulangyu Island
+
+Day 1 Stop 3: Sunlight Rock
+- Why included: The highest point on Gulangyu Island offering panoramic views of Xiamen skyline and the sea, great for landscape shots.
+- Best time to visit: Midday for clear visibility, or late afternoon for golden hour.
+- Estimated stay: 1 hour
+- Address: No. 2 Huangyan Road, Gulangyu Island
+
+Day 1 Stop 4: Zhongshan Road Walking Street
+- Why included: A historic pedestrian street with arcaded buildings, local snacks, and vibrant street life, perfect for candid and architectural photography.
+- Best time to visit: Late afternoon to early evening for lively atmosphere and warm light.
+- Estimated stay: 1.5-2 hours
+- Address: Zhongshan Road, Siming District
+
+Day 1 Stop 5: Xiamen University
+- Why included: A beautiful campus with lakes, gardens, and traditional Fujian-style buildings, offering serene spots for photography.
+- Best time to visit: Late afternoon for soft light and fewer students.
+- Estimated stay: 1-1.5 hours
+- Address: No. 422 Siming South Road, Siming District
+
+Day 2 Stop 1: Nanputuo Temple
+- Why included: A serene Buddhist temple with intricate architecture, lush gardens, and mountain backdrop, ideal for spiritual and nature photography.
+- Best time to visit: Early morning for tranquility and morning light.
+- Estimated stay: 1.5-2 hours
+- Address: No. 515 Siming South Road, Siming District
+
+Day 2 Stop 2: Huandao Road (Island Ring Road)
+- Why included: A scenic coastal road with bike paths, beaches, and ocean views, perfect for leisurely cycling and capturing seascapes.
+- Best time to visit: Late morning for clear skies and gentle breeze.
+- Estimated stay: 2-3 hours (including cycling)
+- Address: Starts from Xiamen University to Huangcuo Beach
+
+Day 2 Stop 3: Zengcuoan Village
+- Why included: A charming fishing village turned artistic enclave with narrow lanes, murals, and seaside cafes, great for street and cultural photography.
+- Best time to visit: Early afternoon for good light and relaxed vibe.
+- Estimated stay: 1.5-2 hours
+- Address: Zengcuoan Village, Siming District
+
+Day 2 Stop 4: Wanshi Botanical Garden
+- Why included: A lush botanical garden with diverse plant collections, rock formations, and peaceful paths, ideal for nature photography.
+- Best time to visit: Late afternoon for golden hour and cooler temperatures.
+- Estimated stay: 1.5-2 hours
+- Address: No. 25 Huyuan Road, Siming District"
+"25","Plan a two-day Xiamen trip for someone who likes slow travel and photography.","Local RAG Only","12","12","9","4.5","0","0","0.222","0.889","0.278","Title: Slow Photography Journey in Xiamen – Island Charm & Cultural Lens
+
+Day 1 Stop 1: 鼓浪屿
+- Why included: The entire island is a photographer’s paradise with colonial architecture, sea views, and relaxed vibes, perfect for slow exploration and capturing diverse scenes.
+- Best time to visit: Morning
+- Estimated stay: 90 minutes (as a base area, you’ll explore sub-POIs within)
+- Address: 鼓浪屿
+
+Day 1 Stop 2: 日光岩
+- Why included: The highest viewpoint on the island offers panoramic sea and city views, ideal for sunrise or morning photography.
+- Best time to visit: Morning
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿晃岩路
+
+Day 1 Stop 3: 菽庄花园
+- Why included: A beautiful garden with sea views and piano culture, offering tranquil spots for slow photography and cultural appreciation.
+- Best time to visit: Morning or noon
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿港仔后路
+
+Day 1 Stop 4: 港仔后海滨浴场
+- Why included: A serene beach perfect for relaxed walks and capturing sunset or seaside moments, fitting the slow travel pace.
+- Best time to visit: Sunset
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿港仔后路附近
+
+Day 1 Stop 5: 龙头路
+- Why included: A lively food street with local snacks and souvenirs, great for evening strolls and street photography after a relaxing day.
+- Best time to visit: Evening
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿龙头路
+
+Day 2 Stop 1: 南普陀寺
+- Why included: A serene Buddhist temple with beautiful architecture and mountain backdrop, offering calm morning photography and cultural immersion.
+- Best time to visit: Morning
+- Estimated stay: 90 minutes
+- Address: 思明南路515号
+
+Day 2 Stop 2: 厦门大学外部参观点
+- Why included: The campus exterior features iconic architecture and scenic spots, ideal for leisurely photography and appreciating the academic atmosphere.
+- Best time to visit: Morning or noon
+- Estimated stay: 90 minutes
+- Address: 思明南路422号周边
+
+Day 2 Stop 3: 皓月园
+- Why included: A coastal park with the Zheng Chenggong statue and sea views, perfect for relaxed afternoon photography and cultural history.
+- Best time to visit: Noon or evening
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿东部海滨
+
+Day 2 Stop 4: 鼓浪屿钢琴博物馆
+- Why included: A unique museum inside Shuzhuang Garden showcasing historic pianos, offering a quiet cultural stop with photographic opportunities.
+- Best time to visit: Morning or afternoon
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿菽庄花园内"
+"25","Plan a two-day Xiamen trip for someone who likes slow travel and photography.","Local RAG + STCF","12","4","4","2","0","0","0","0.75","0","Title: A Slow Photography Journey Through Xiamen's Charms
+
+Day 1 Stop 1: 鼓浪屿
+- Why included: A scenic island with world heritage architecture and stunning sea views, perfect for slow exploration and photography.
+- Best time to visit: morning or afternoon
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿
+
+Day 1 Stop 2: 龙头路
+- Why included: A lively food street on the island, ideal for a relaxed lunch and capturing local life and snacks.
+- Best time to visit: noon or evening
+- Estimated stay: 90 minutes
+- Address: 鼓浪屿龙头路
+
+Day 2 Stop 1: 南普陀寺
+- Why included: A serene Buddhist temple with rich culture and scenic surroundings, offering peaceful photo opportunities.
+- Best time to visit: morning or afternoon
+- Estimated stay: 90 minutes
+- Address: 思明南路515号
+
+Day 2 Stop 2: 厦门大学外部参观点
+- Why included: The beautiful campus architecture and surroundings are perfect for leisurely walks and photography.
+- Best time to visit: morning or noon
+- Estimated stay: 90 minutes
+- Address: 思明南路422号周边"
+"26","厦门周一可以去哪里？帮我安排一日游，避免闭馆景点。","LLM Only","0","0","6","6","0","0","0","1","0.917","Title: 厦门周一文化休闲一日游
+
+Day 1 Stop 1: 厦门园林植物园
+- Why included: 周一正常开放，植物种类丰富，适合早晨清新游览。
+- Best time to visit: 8:00-10:00
+- Estimated stay: 2小时
+- Address: 思明区虎园路25号
+
+Day 1 Stop 2: 南普陀寺
+- Why included: 周一开放，免费，环境清幽，可祈福观景。
+- Best time to visit: 10:30-11:30
+- Estimated stay: 1小时
+- Address: 思明区思明南路515号
+
+Day 1 Stop 3: 厦门大学
+- Why included: 周一通常开放（需预约），校园风光优美，临近南普陀寺。
+- Best time to visit: 12:00-13:30
+- Estimated stay: 1.5小时
+- Address: 思明区思明南路422号
+
+Day 1 Stop 4: 中山路步行街
+- Why included: 周一全天开放，商业街可午餐和购物，体验闽南风情。
+- Best time to visit: 14:00-16:00
+- Estimated stay: 2小时
+- Address: 思明区中山路
+
+Day 1 Stop 5: 沙坡尾艺术西区
+- Why included: 周一开放，文艺街区，适合傍晚散步拍照。
+- Best time to visit: 16:30-18:00
+- Estimated stay: 1.5小时
+- Address: 思明区大学路沙坡尾
+
+Day 1 Stop 6: 演武大桥观景台
+- Why included: 周一免费开放，可看日落和鼓浪屿夜景。
+- Best time to visit: 18:00-19:00
+- Estimated stay: 1小时
+- Address: 思明区演武大桥旁"
+"26","厦门周一可以去哪里？帮我安排一日游，避免闭馆景点。","Local RAG Only","12","12","6","6","0","0","0.167","1","0.892","Title: 厦门周一鼓浪屿与南普陀一日游
+
+Day 1 Stop 1: 南普陀寺
+- Why included: 周一开放，适合早晨参拜，感受闽南佛教文化，且位于厦大片区，交通便利。
+- Best time to visit: 上午
+- Estimated stay: 1.5小时
+- Address: 思明南路515号
+
+Day 1 Stop 2: 厦门大学外部参观点
+- Why included: 周一可自由参观校园外观，拍照留念，与南普陀寺相邻，方便衔接。
+- Best time to visit: 上午
+- Estimated stay: 1.5小时
+- Address: 思明南路422号周边
+
+Day 1 Stop 3: 鼓浪屿
+- Why included: 周一全天开放，作为核心景区，可乘轮渡登岛，体验海岛风光与世界遗产魅力。
+- Best time to visit: 中午
+- Estimated stay: 3小时
+- Address: 鼓浪屿
+
+Day 1 Stop 4: 日光岩
+- Why included: 周一开放，登顶俯瞰鼓浪屿全景和海景，是标志性观景点。
+- Best time to visit: 下午
+- Estimated stay: 1.5小时
+- Address: 鼓浪屿晃岩路
+
+Day 1 Stop 5: 龙头路
+- Why included: 周一开放至22:30，适合下午逛吃，品尝小吃和购买伴手礼，丰富行程体验。
+- Best time to visit: 下午
+- Estimated stay: 1.5小时
+- Address: 鼓浪屿龙头路
+
+Day 1 Stop 6: 皓月园
+- Why included: 周一全天开放，傍晚可欣赏海滨日落和郑成功雕像，结束一天的游览。
+- Best time to visit: 傍晚
+- Estimated stay: 1.5小时
+- Address: 鼓浪屿东部海滨"
+"26","厦门周一可以去哪里？帮我安排一日游，避免闭馆景点。","Local RAG + STCF","12","3","3","3","0","0","0","0.667","0.917","Title: 厦门周一文化风景一日游
+
+Day 1 Stop 1: 南普陀寺
+- Why included: 厦门著名佛教寺庙，文化底蕴深厚，周一正常开放，适合上午游览。
+- Best time to visit: 上午
+- Estimated stay: 90分钟
+- Address: 思明南路515号
+
+Day 1 Stop 2: 厦门大学外部参观点
+- Why included: 紧邻南普陀寺，可欣赏厦大校园建筑外观，适合拍照，周一无闭馆限制。
+- Best time to visit: 上午或中午
+- Estimated stay: 90分钟
+- Address: 思明南路422号周边
+
+Day 1 Stop 3: 鼓浪屿
+- Why included: 厦门标志性海岛景点，全天开放，周一可自由游览，享受海景与建筑。
+- Best time to visit: 下午
+- Estimated stay: 90分钟以上
+- Address: 鼓浪屿"
+"27","厦门美食路线，想从早餐吃到晚餐，包含小吃和正餐。","LLM Only","0","0","6","6","0.667","0","0","0","0.333","Title: 厦门从早到晚美食一日游
+
+Day 1 Stop 1: 友生风味小吃
+- Why included: 厦门老字号，主打地道早餐，沙茶面和猪脚面是经典，开启一天味蕾。
+- Best time to visit: 早上7:00-8:30
+- Estimated stay: 30分钟
+- Address: 厦门市思明区开元路147号
+
+Day 1 Stop 2: 八市阿杰五香
+- Why included: 位于八市附近，现炸五香条外酥里嫩，是厦门特色小吃，适合上午加餐。
+- Best time to visit: 上午9:00-10:00
+- Estimated stay: 20分钟
+- Address: 厦门市思明区开平路27号
+
+Day 1 Stop 3: 莲欢海蛎煎
+- Why included: 正宗厦门海蛎煎，口感软糯鲜香，是午餐前的小吃补给。
+- Best time to visit: 上午11:00-11:30
+- Estimated stay: 20分钟
+- Address: 厦门市思明区中山路局口街局口横巷33号
+
+Day 1 Stop 4: 堂宴·老厦门私房菜
+- Why included: 提供正餐体验，招牌菜如姜母鸭、酱油水海鲜，代表厦门家常风味，适合午餐。
+- Best time to visit: 中午11:30-13:00
+- Estimated stay: 1小时30分钟
+- Address: 厦门市思明区中山路老虎城购物中心3楼
+
+Day 1 Stop 5: 阿吉仔馅饼
+- Why included: 下午茶首选，经典马蹄酥和椰子饼，配茶解腻，适合午后休憩。
+- Best time to visit: 下午14:00-15:00
+- Estimated stay: 30分钟
+- Address: 厦门市思明区大元路37号
+
+Day 1 Stop 6: 202特色排档
+- Why included: 晚餐推荐，本地人爱去的大排档，海鲜新鲜，招牌黑蒜汤和杂鱼酱油水，体验夜宵氛围。
+- Best time to visit: 晚上17:30-19:00
+- Estimated stay: 1小时30分钟
+- Address: 厦门市思明区后江埭路29号"
+"27","厦门美食路线，想从早餐吃到晚餐，包含小吃和正餐。","Local RAG Only","12","12","5","5","0","0.2","0","0.8","1","Title: 厦门从早吃到晚的美食路线
+
+Day 1 Stop 1: 八市
+- Why included: 这里是厦门最地道的菜市场，早上可以品尝新鲜的海鲜和本地小吃，如沙茶面、海蛎煎，是早餐的理想起点。
+- Best time to visit: 早上
+- Estimated stay: 90分钟
+- Address: 开禾路与营平路附近
+
+Day 1 Stop 2: 中山路步行街
+- Why included: 上午逛骑楼老街，可以边逛边吃，这里汇集了各种小吃和伴手礼，适合作为上午的休闲美食站。
+- Best time to visit: 上午
+- Estimated stay: 90分钟
+- Address: 中山路
+
+Day 1 Stop 3: 大同路老街
+- Why included: 中午时分，这里的老街氛围浓厚，可以找到正宗的厦门正餐，如姜母鸭或同安封肉，体验本地风味。
+- Best time to visit: 中午
+- Estimated stay: 90分钟
+- Address: 大同路
+
+Day 1 Stop 4: 曾厝垵
+- Why included: 下午到傍晚，这里是渔村改造的美食文创区，小吃琳琅满目，如土笋冻、炸五香，适合边逛边吃，享受悠闲时光。
+- Best time to visit: 下午或傍晚
+- Estimated stay: 90分钟
+- Address: 曾厝垵
+
+Day 1 Stop 5: 龙头路
+- Why included: 晚上前往鼓浪屿的龙头路，这里夜市热闹，可以品尝各类小吃和海鲜烧烤，作为晚餐的完美收尾。
+- Best time to visit: 晚上
+- Estimated stay: 90分钟
+- Address: 鼓浪屿龙头路"
+"27","厦门美食路线，想从早餐吃到晚餐，包含小吃和正餐。","Local RAG + STCF","12","5","4","4","0","0.25","0","0.75","1","Title: 厦门从早吃到晚的美食路线
+
+Day 1 Stop 1: 大同路老街
+- Why included: 清晨的老街宁静，适合漫步感受骑楼建筑，沿途可品尝地道的厦门早餐如面线糊或花生汤，开启一天的味蕾之旅。
+- Best time to visit: 早上
+- Estimated stay: 90分钟
+- Address: 大同路
+
+Day 1 Stop 2: 八市
+- Why included: 厦门最热闹的菜市场，中午时分海鲜和小吃摊档最丰富，可以尝到新鲜的海蛎煎、沙茶面等本地正餐，体验市井烟火气。
+- Best time to visit: 中午
+- Estimated stay: 90分钟
+- Address: 开禾路与营平路附近
+
+Day 1 Stop 3: 中山路步行街
+- Why included: 下午逛骑楼商业街，沿途小吃琳琅满目，适合边走边吃，推荐尝试土笋冻、烧肉粽等经典小吃，作为下午的加餐。
+- Best time to visit: 下午
+- Estimated stay: 90分钟
+- Address: 中山路
+
+Day 1 Stop 4: 曾厝垵
+- Why included: 傍晚时分来到这个文创渔村，小巷里藏着众多特色小吃和海鲜排档，适合享用晚餐，如姜母鸭、海蛎炸，还能感受文艺氛围。
+- Best time to visit: 傍晚
+- Estimated stay: 90分钟
+- Address: 曾厝垵"
+"28","厦门文化路线，想看老建筑、老街区和历史氛围。","LLM Only","0","0","6","6","0","0","0.167","0.833","1","Title: 厦门老建筑与历史街区一日深度游
+
+Day 1 Stop 1: 鼓浪屿（重点：八卦楼、番婆楼、海天堂构）
+- Why included: 鼓浪屿被誉为“万国建筑博览”，集中了上千栋中西合璧的老别墅，是厦门老建筑精华所在。
+- Best time to visit: 上午8:00-11:00，游客较少，光线适合拍照。
+- Estimated stay: 2.5小时
+- Address: 厦门市思明区鼓浪屿
+
+Day 1 Stop 2: 龙头路老街区
+- Why included: 鼓浪屿上保存完好的商业老街，石板路两侧是百年骑楼和特色小店，充满历史市井气息。
+- Best time to visit: 上午11:00-12:30
+- Estimated stay: 1.5小时
+- Address: 鼓浪屿龙头路
+
+Day 1 Stop 3: 中山路步行街
+- Why included: 厦门最著名的百年商业老街，保留了大量南洋骑楼建筑，是感受老厦门历史氛围的必到之处。
+- Best time to visit: 下午14:00-16:00
+- Estimated stay: 1.5小时
+- Address: 厦门市思明区中山路
+
+Day 1 Stop 4: 华新路老别墅区
+- Why included: 被称为“厦门最后的老别墅区”，红砖老洋房、幽静小巷，少有游客打扰，是体验老建筑宁静氛围的宝藏地。
+- Best time to visit: 下午16:30-18:00
+- Estimated stay: 1小时
+- Address: 厦门市思明区华新路
+
+Day 1 Stop 5: 沙坡尾老街区
+- Why included: 厦门最古老的渔港之一，保留了旧时避风坞和闽南传统民居，融合了老建筑与历史生活痕迹。
+- Best time to visit: 傍晚18:00-19:30
+- Estimated stay: 1.5小时
+- Address: 厦门市思明区沙坡尾
+
+Day 1 Stop 6: 八市（第八菜市场）周边老街区
+- Why included: 厦门最接地气的百年老市场，周边骑楼和街巷充满市井烟火气，能深度感受老厦门的历史生活氛围。
+- Best time to visit: 上午或傍晚
+- Estimated stay: 1小时
+- Address: 厦门市思明区开平路与营平路交叉口"
+"28","厦门文化路线，想看老建筑、老街区和历史氛围。","Local RAG Only","12","12","6","6","0","0.167","0","0.833","1","Title: 厦门老建筑与历史街区文化之旅
+
+Day 1 Stop 1: 南普陀寺
+- Why included: 闽南佛教古刹，历史悠久，建筑精美，是感受厦门宗教文化与古建筑氛围的理想起点。
+- Best time to visit: morning
+- Estimated stay: 90分钟
+- Address: 思明南路515号
+
+Day 1 Stop 2: 厦门大学外部参观点
+- Why included: 欣赏嘉庚风格老建筑群，校园内绿树成荫，历史底蕴深厚，适合漫步拍照。
+- Best time to visit: morning or afternoon
+- Estimated stay: 90分钟
+- Address: 思明南路422号周边
+
+Day 1 Stop 3: 胡里山炮台
+- Why included: 百年海防遗址，保留完整古炮台与历史陈列，可感受厦门近代历史与军事文化。
+- Best time to visit: morning or afternoon
+- Estimated stay: 90分钟
+- Address: 曾厝垵路2号
+
+Day 1 Stop 4: 鼓浪屿
+- Why included: 世界文化遗产，岛上遍布百年老别墅、领事馆旧址和特色街区，是体验老建筑与历史氛围的精华所在。
+- Best time to visit: morning or afternoon
+- Estimated stay: 90分钟
+- Address: 鼓浪屿
+
+Day 1 Stop 5: 菽庄花园
+- Why included: 鼓浪屿上的经典园林，融合中西建筑风格，依山傍海，钢琴文化浓郁，展现老建筑与自然之美。
+- Best time to visit: morning or afternoon
+- Estimated stay: 90分钟
+- Address: 鼓浪屿港仔后路
+
+Day 1 Stop 6: 鼓浪屿国际刻字艺术馆
+- Why included: 展示国际刻字艺术，馆内建筑本身也具历史风貌，为文化路线增添艺术深度。
+- Best time to visit: morning or afternoon
+- Estimated stay: 90分钟
+- Address: 鼓浪屿内"
+"28","厦门文化路线，想看老建筑、老街区和历史氛围。","Local RAG + STCF","12","3","3","3","0","0","0","0.667","1","Title: 厦门文化探寻一日游
+
+Day 1 Stop 1: 厦门文化艺术中心
+- Why included: 作为文化路线的核心起点，这里汇聚展览与剧场，能全面感受厦门现代文化氛围。
+- Best time to visit: 上午
+- Estimated stay: 90分钟
+- Address: 体育路95号附近
+
+Day 1 Stop 2: 厦门博物馆
+- Why included: 紧邻文化艺术中心，馆内展示厦门历史与城市文化，满足您对老建筑和历史氛围的探索需求。
+- Best time to visit: 上午或下午
+- Estimated stay: 90分钟
+- Address: 体育路95号文化艺术中心内
+
+Day 1 Stop 3: 鼓浪屿国际刻字艺术馆
+- Why included: 位于鼓浪屿，馆内展示独特的刻字艺术，结合岛上老建筑与街区，深度体验历史与文化的交融。
+- Best time to visit: 上午或下午
+- Estimated stay: 90分钟
+- Address: 鼓浪屿内"
+"29","厦门海边路线，想看沙滩、海景和日落。","LLM Only","0","0","6","6","0.333","0","0","0.667","0.6","Title: Xiamen Coastal Sunset & Beach Route
+
+Day 1 Stop 1: Huandao Road (环岛路)
+- Why included: Scenic coastal road with wide views of the sea, ideal for walking or cycling to start the beach tour.
+- Best time to visit: 9:00 AM - 10:00 AM
+- Estimated stay: 1.5 hours
+- Address: Huandao Road, Siming District, Xiamen
+
+Day 1 Stop 2: Pearl Bay Beach (珍珠湾海滩)
+- Why included: Clean sandy beach with gentle waves, perfect for relaxing and enjoying the seaside atmosphere.
+- Best time to visit: 10:30 AM - 12:00 PM
+- Estimated stay: 1.5 hours
+- Address: Huandao Road, near Xiamen University, Siming District
+
+Day 1 Stop 3: Zengcuoan Village (曾厝垵)
+- Why included: Quaint seaside village with artsy shops, local snacks, and a nearby beach for a midday stroll.
+- Best time to visit: 12:30 PM - 2:00 PM
+- Estimated stay: 1.5 hours (including lunch)
+- Address: Zengcuoan, Siming District, Xiamen
+
+Day 1 Stop 4: Baicheng Beach (白城海滩)
+- Why included: Popular beach near Xiamen University, offering soft sand and great views of the sea and bridges.
+- Best time to visit: 2:30 PM - 4:00 PM
+- Estimated stay: 1.5 hours
+- Address: Near Xiamen University, Siming District, Xiamen
+
+Day 1 Stop 5: Gulangyu Island (鼓浪屿) - Sunlight Rock (日光岩)
+- Why included: Take a short ferry to the island; climb Sunlight Rock for panoramic sea views and a prime sunset spot.
+- Best time to visit: 4:30 PM - 6:30 PM (sunset around 5:30-6:00 PM)
+- Estimated stay: 2 hours
+- Address: Gulangyu Island, Xiamen (ferry from Zhongshan Road Pier)
+
+Day 1 Stop 6: Zhongshan Road Walking Street (中山路步行街)
+- Why included: End the day with a seaside evening walk, local seafood dinner, and vibrant night lights.
+- Best time to visit: 7:00 PM onwards
+- Estimated stay: 1.5 hours (for dinner and stroll)
+- Address: Zhongshan Road, Siming District, Xiamen"
+"29","厦门海边路线，想看沙滩、海景和日落。","Local RAG Only","12","12","4","4","0","0","0","1","1","Title: 厦门海滨日落沙滩之旅
+
+Day 1 Stop 1: 白城沙滩
+- Why included: 厦门最知名的沙滩之一，适合漫步、看海景，是观赏日落的理想地点，完美契合用户对沙滩、海景和日落的需求。
+- Best time to visit: 傍晚（日落前1-2小时到达）
+- Estimated stay: 90分钟
+- Address: 厦门大学白城附近
+
+Day 1 Stop 2: 海沧湾公园
+- Why included: 位于海沧湾的海滨公园，拥有开阔的海景视野，适合悠闲散步，傍晚时分可欣赏海面日落美景，与白城沙滩形成不同角度的海景体验。
+- Best time to visit: 傍晚（日落时段）
+- Estimated stay: 90分钟
+- Address: 海沧湾公园
+
+Day 1 Stop 3: 嵩屿码头
+- Why included: 码头区域可近距离感受海景和轮渡风情，视野开阔，适合欣赏海面日落，为行程增添码头特色。
+- Best time to visit: 傍晚（日落前）
+- Estimated stay: 90分钟
+- Address: 嵩屿码头
+
+Day 1 Stop 4: 海沧湖
+- Why included: 湖景与海景相映成趣，适合散步放松，在日落余晖中感受宁静的海滨氛围，丰富路线体验。
+- Best time to visit: 傍晚（日落前后）
+- Estimated stay: 90分钟
+- Address: 海沧湖周边"
+"29","厦门海边路线，想看沙滩、海景和日落。","Local RAG + STCF","12","5","5","5","0","0","0","1","1","Title: 厦门海边沙滩日落之旅
+
+Day 1 Stop 1: 海沧大桥旅游区
+- Why included: 欣赏壮观的海景与城市景观，感受大桥与海面的完美融合，是海边路线的理想起点。
+- Best time to visit: 上午
+- Estimated stay: 90分钟
+- Address: 海沧大桥周边
+
+Day 1 Stop 2: 海沧湾公园
+- Why included: 漫步海湾公园，享受开阔的海景和休闲氛围，为观赏日落做好准备。
+- Best time to visit: 傍晚
+- Estimated stay: 90分钟
+- Address: 海沧湾公园
+
+Day 1 Stop 3: 嵩屿码头
+- Why included: 在码头感受海风与轮渡的韵味，欣赏海景，体验海边码头的独特风情。
+- Best time to visit: 下午
+- Estimated stay: 90分钟
+- Address: 嵩屿码头
+
+Day 1 Stop 4: 白城沙滩
+- Why included: 沙滩、海景和日落完美结合，是观赏日落的绝佳地点，满足您对海边日落的所有期待。
+- Best time to visit: 日落时分
+- Estimated stay: 90分钟
+- Address: 厦门大学白城附近
+
+Day 1 Stop 5: 港仔后海滨浴场
+- Why included: 在鼓浪屿的沙滩上散步，享受宁静的海景和日落余晖，为旅程增添浪漫色彩。
+- Best time to visit: 傍晚
+- Estimated stay: 90分钟
+- Address: 鼓浪屿港仔后路附近"
+"30","厦门两日慢旅行，适合拍照、散步和吃本地美食。","LLM Only","0","0","10","5","0","0.1","0","0.7","0.975","Title: 厦门两日慢旅行：拍照、散步与美食
+
+Day 1 Stop 1: 鼓浪屿（日光岩、菽庄花园、龙头路）
+- Why included: 鼓浪屿是厦门标志性景点，拥有万国建筑群、海滨步道和文艺小巷，非常适合拍照和散步。龙头路聚集众多本地小吃，如沙茶面、海蛎煎和叶氏麻糍。
+- Best time to visit: 上午8:00-9:00抵达，避开人流高峰
+- Estimated stay: 4-5小时
+- Address: 厦门市思明区鼓浪屿
+
+Day 1 Stop 2: 中山路步行街
+- Why included: 厦门最繁华的老街，骑楼建筑风格独特，适合街拍。沿街有黄则和花生汤、莲欢海蛎煎等老字号美食。
+- Best time to visit: 下午1:00-2:00，午餐时间
+- Estimated stay: 1.5小时
+- Address: 厦门市思明区中山路
+
+Day 1 Stop 3: 八市（厦门第八菜市场）
+- Why included: 本地人最爱的海鲜市场，充满烟火气，可品尝新鲜海鲜加工和特色小吃如阿杰五香、钟丽君满煎糕，是拍照和美食体验的好去处。
+- Best time to visit: 下午3:00-4:00
+- Estimated stay: 1.5小时
+- Address: 厦门市思明区开平路
+
+Day 1 Stop 4: 沙坡尾艺术西区
+- Why included: 旧渔港改造的文创园区，保留老厦门风貌，有涂鸦墙、咖啡馆和创意小店，傍晚时分适合散步拍照，还能欣赏日落。
+- Best time to visit: 下午5:00-6:30
+- Estimated stay: 1.5-2小时
+- Address: 厦门市思明区大学路
+
+Day 1 Stop 5: 演武大桥观景台
+- Why included: 紧邻沙坡尾，可远眺鼓浪屿和双子塔，夜景迷人，适合饭后散步。
+- Best time to visit: 晚上7:00-7:30
+- Estimated stay: 30分钟
+- Address: 厦门市思明区演武大桥
+
+Day 2 Stop 1: 南普陀寺
+- Why included: 闽南佛教圣地，建筑精美，寺后五老峰可登山俯瞰厦门，环境清幽，适合清晨散步拍照。
+- Best time to visit: 上午8:00-9:00
+- Estimated stay: 1.5小时
+- Address: 厦门市思明区思明南路515号
+
+Day 2 Stop 2: 厦门大学（思明校区）
+- Why included: 中国最美大学之一，拥有芙蓉湖、情人谷和芙蓉隧道涂鸦墙，是拍照和散步的绝佳地点。
+- Best time to visit: 上午9:30-11:00（需提前预约）
+- Estimated stay: 1.5-2小时
+- Address: 厦门市思明区思明南路422号
+
+Day 2 Stop 3: 顶澳仔猫街
+- Why included: 以猫为主题的文艺小街，有猫咪博物馆和众多猫元素涂鸦，适合拍照，附近有本地小吃如猫街麻糍。
+- Best time to visit: 上午11:00-12:00
+- Estimated stay: 1小时
+- Address: 厦门市思明区顶澳仔路
+
+Day 2 Stop 4: 曾厝垵
+- Why included: 文艺渔村，遍布特色小店、民宿和小吃摊，如沙茶面、土笋冻和姜母鸭，适合午后悠闲散步和拍照。
+- Best time to visit: 下午1:00-3:00
+- Estimated stay: 2小时
+- Address: 厦门市思明区曾厝垵文创村
+
+Day 2 Stop 5: 环岛路（黄厝海滩段）
+- Why included: 厦门最美海滨公路，黄厝海滩人少景美，适合骑行或散步，傍晚可看日落，享受海风。
+- Best time to visit: 下午3:30-5:00
+- Estimated stay: 1.5小时
+- Address: 厦门市思明区环岛南路"
+"30","厦门两日慢旅行，适合拍照、散步和吃本地美食。","Local RAG Only","12","12","9","4.5","0","0.111","0","0.889","0.972","Title: 厦门两日慢旅行：拍照、散步与本地美食
+
+Day 1 Stop 1: 鼓浪屿
+- Why included: 世界遗产海岛，拥有独特建筑与海景，非常适合拍照和散步，开启慢旅行。
+- Best time to visit: 上午
+- Estimated stay: 约3-4小时
+- Address: 鼓浪屿
+
+Day 1 Stop 2: 港仔后海滨浴场
+- Why included: 位于鼓浪屿的沙滩，适合傍晚散步、欣赏日落海景，拍照效果极佳。
+- Best time to visit: 傍晚
+- Estimated stay: 约1.5小时
+- Address: 鼓浪屿港仔后路附近
+
+Day 1 Stop 3: 八市
+- Why included: 本地菜市场，充满烟火气，可品尝海鲜和地道小吃，满足美食需求。
+- Best time to visit: 中午或傍晚
+- Estimated stay: 约1.5小时
+- Address: 开禾路与营平路附近
+
+Day 1 Stop 4: 沙坡尾
+- Why included: 老港口文创区，适合拍照和悠闲散步，感受文化与创意氛围。
+- Best time to visit: 上午或中午
+- Estimated stay: 约1.5小时
+- Address: 沙坡尾
+
+Day 1 Stop 5: 顶澳仔猫街
+- Why included: 猫主题街区，色彩丰富，适合拍照和放松，体验独特街区文化。
+- Best time to visit: 上午或中午
+- Estimated stay: 约1.5小时
+- Address: 顶澳仔路
+
+Day 2 Stop 1: 厦门大学外部参观点
+- Why included: 校园外观建筑优美，适合拍照和散步，感受学术氛围。
+- Best time to visit: 上午或中午
+- Estimated stay: 约1.5小时
+- Address: 思明南路422号周边
+
+Day 2 Stop 2: 音乐广场
+- Why included: 海滨广场，音乐主题，适合散步和拍照，享受海风与自然。
+- Best time to visit: 上午或中午
+- Estimated stay: 约1.5小时
+- Address: 环岛南路音乐广场
+
+Day 2 Stop 3: 梅海岭
+- Why included: 三角梅山地公园，花海与山景适合拍照和悠闲散步，放松身心。
+- Best time to visit: 上午或中午
+- Estimated stay: 约1.5小时
+- Address: 东坪山路附近
+
+Day 2 Stop 4: 筼筜湖
+- Why included: 湖景与城市夜景结合，适合傍晚散步和拍照，体验本地休闲。
+- Best time to visit: 上午或中午
+- Estimated stay: 约1.5小时
+- Address: 筼筜湖周边"
+"30","厦门两日慢旅行，适合拍照、散步和吃本地美食。","Local RAG + STCF","12","7","7","3.5","0","0.143","0","0.857","0.964","Title: 厦门两日慢旅行·美食与街巷漫步
+
+Day 1 Stop 1: 沙坡尾
+- Why included: 老港口文创街区，适合拍照和感受本地文化，慢旅行首选
+- Best time to visit: 上午
+- Estimated stay: 90分钟
+- Address: 沙坡尾
+
+Day 1 Stop 2: 顶澳仔猫街
+- Why included: 猫主题街区，拍照打卡地，与沙坡尾相邻，散步可达
+- Best time to visit: 上午
+- Estimated stay: 90分钟
+- Address: 顶澳仔路
+
+Day 1 Stop 3: 八市
+- Why included: 本地菜市场，品尝海鲜和地道小吃，体验厦门烟火气
+- Best time to visit: 中午或傍晚
+- Estimated stay: 90分钟
+- Address: 开禾路与营平路附近
+
+Day 1 Stop 4: 鼓浪屿
+- Why included: 世界遗产海岛，建筑与海景绝佳，适合拍照与悠闲散步
+- Best time to visit: 上午或下午
+- Estimated stay: 90分钟
+- Address: 鼓浪屿
+
+Day 1 Stop 5: 金榜公园
+- Why included: 本地休闲公园，山地步道适合散步，感受自然
+- Best time to visit: 上午或下午
+- Estimated stay: 90分钟
+- Address: 金榜路附近
+
+Day 2 Stop 1: 筼筜湖
+- Why included: 湖景优美，适合散步和拍照，傍晚可赏城市夜景
+- Best time to visit: 上午或下午
+- Estimated stay: 90分钟
+- Address: 筼筜湖周边
+
+Day 2 Stop 2: 湖里公园
+- Why included: 城市公园，本地休闲好去处，适合放松散步
+- Best time to visit: 上午或下午
+- Estimated stay: 90分钟
+- Address: 湖里公园"
